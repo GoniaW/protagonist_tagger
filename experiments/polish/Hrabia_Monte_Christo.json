@@ -1,0 +1,1929 @@
+[
+  {
+    "content": "Był to młodzieniec liczący zaledwie osiemnaście do dwudziestu lat, słusznego wzrostu, smukły, kruczowłosy, o pięknych czarnych oczach.",
+    "entities": []
+  },
+  {
+    "content": "W całej jego postaci malował się spokój i energia, właściwa ludziom, którzy od dzieciństwa przywykli walczyć z niebezpieczeństwami.",
+    "entities": []
+  },
+  {
+    "content": "— Ach!",
+    "entities": []
+  },
+  {
+    "content": "To pan, panie Edmundzie! — wykrzyknął mężczyzna z łódki.",
+    "entities": [
+      [
+        14,
+        23,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— Cóż się stało?",
+    "entities": []
+  },
+  {
+    "content": "Skąd ten smutek, który panuje na pokładzie?",
+    "entities": []
+  },
+  {
+    "content": "— Nieszczęście, wielkie nieszczęście na nas spadło, panie Morrel — odrzekł młodzieniec.",
+    "entities": [
+      [
+        58,
+        64,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Nieszczęście, które srogo mnie dotknęło.",
+    "entities": []
+  },
+  {
+    "content": "Tuż pod Civitavecchia straciliśmy naszego zacnego kapitana Leclère.",
+    "entities": [
+      [
+        59,
+        66,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— A ładunek?",
+    "entities": []
+  },
+  {
+    "content": "— zawołał niespokojnie właściciel okrętu.",
+    "entities": []
+  },
+  {
+    "content": "— Nietknięty, przywieźliśmy go w najlepszym porządku; sądzę, że jeśli o to idzie, będziesz pan zupełnie kontent.",
+    "entities": []
+  },
+  {
+    "content": "Ale biedny kapitan Leclère…",
+    "entities": [
+      [
+        19,
+        26,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Cóż mu się stało? — spytał właściciel tonem wyraźnie spokojniejszym.",
+    "entities": []
+  },
+  {
+    "content": "— Cóż się stało zacnemu kapitanowi?",
+    "entities": []
+  },
+  {
+    "content": "— Nie żyje.",
+    "entities": []
+  },
+  {
+    "content": "— Czyżby utonął?",
+    "entities": []
+  },
+  {
+    "content": "— O nie, panie Morrel, umarł na zapalenie mózgu wśród najokropniejszych cierpień.",
+    "entities": [
+      [
+        15,
+        21,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "Po czym Edmund zwrócił się do swoich ludzi:",
+    "entities": [
+      [
+        8,
+        14,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— Hej! — zawołał.",
+    "entities": []
+  },
+  {
+    "content": "— Wszyscy na stanowiska, rzucamy kotwicę!",
+    "entities": []
+  },
+  {
+    "content": "Załoga spełniła rozkaz i ośmiu czy dziewięciu marynarzy, którzy się na nią składali, rzuciło się w mgnieniu oka do szotów, brasów, fałów, want i sztagów.",
+    "entities": []
+  },
+  {
+    "content": "Młody marynarz, rzuciwszy okiem na początek manewru i przekonawszy się, że rozkazy są należycie spełniane, powrócił do pana Morrela.",
+    "entities": [
+      [
+        124,
+        131,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Jakże doszło do tego nieszczęścia? — spytał armator, nawiązując do przerwanego wątku rozmowy.",
+    "entities": []
+  },
+  {
+    "content": "— Ach, mój Boże, nigdy byśmy się nie spodziewali.",
+    "entities": [
+      [
+        11,
+        15,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Po długiej rozmowie z komendantem portu w Neapolu kapitan Leclère opuścił miasto bardzo wzruszony: nie minęła doba, a dostał nadzwyczaj mocnej gorączki i w trzy dni później już umierał…",
+    "entities": [
+      [
+        58,
+        65,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Wyprawiliśmy mu pogrzeb, jak należy; przywiązaliśmy mu do stóp i do głowy 26-funtowe kule i spoczywa teraz owinięty w hamak niedaleko wyspy El Giglio.",
+    "entities": []
+  },
+  {
+    "content": "Wdowie po nim wieziemy jego Krzyż Legii Honorowej i szpadę.",
+    "entities": [
+      [
+        0,
+        6,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Smutne to — ciągnął młodzieniec z melancholijnym uśmiechem — walczyć z Anglikami lat dziesięć, żeby potem umrzeć taką śmiercią, jak lada kto umiera — we własnym łóżku.",
+    "entities": []
+  },
+  {
+    "content": "— Cóż chcesz, do diabła, drogi panie Edmundzie — odpowiedział armator, który wyglądał na niemal zupełnie pocieszonego po tej stracie.",
+    "entities": [
+      [
+        37,
+        46,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— Wszyscy jesteśmy śmiertelni, a trzeba przecież, żeby starzy ustępowali miejsca młodym, inaczej trudno byłoby mówić o postępie; ale skoro powiadasz mi, że ładunek jest…",
+    "entities": []
+  },
+  {
+    "content": "— W doskonałym stanie, ręczę za to, panie Morrel.",
+    "entities": [
+      [
+        42,
+        48,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "Ten rejs przyniesie panu zapewne 25 000 franków zysku.",
+    "entities": []
+  },
+  {
+    "content": "Statek mijał właśnie Basztę Okrągłą.",
+    "entities": []
+  },
+  {
+    "content": "— Gotować się do zwijania marsli, kliwra i bezanżagla! — zawołał młody żeglarz.",
+    "entities": [
+      [
+        43,
+        53,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Żywo!",
+    "entities": []
+  },
+  {
+    "content": "Rozkaz spełniono z taką szybkością, jak na okręcie wojennym.",
+    "entities": []
+  },
+  {
+    "content": "— Luzuj i zwijaj!",
+    "entities": [
+      [
+        2,
+        7,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Na tę komendę wszystkie żagle opadły nagle, a statek jął posuwać się do przodu z wolna, popychany samą już tylko siłą rozpędu.",
+    "entities": []
+  },
+  {
+    "content": "— Teraz, panie Morrel, racz wejść na pokład — rzekł Dantès, widząc niecierpliwość właściciela.",
+    "entities": [
+      [
+        15,
+        21,
+        "Piotr Morrel"
+      ],
+      [
+        52,
+        58,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— Oto wychodzi z kajuty pański buchalter, pan Danglars.",
+    "entities": [
+      [
+        31,
+        40,
+        "PERSON"
+      ],
+      [
+        46,
+        54,
+        "Danglars"
+      ]
+    ]
+  },
+  {
+    "content": "Udzieli panu wszelkich objaśnień, jakich byś pan nie zażądał.",
+    "entities": []
+  },
+  {
+    "content": "Co do mnie, muszę dopilnować kotwiczenia i wywiesić znaki żałoby.",
+    "entities": []
+  },
+  {
+    "content": "Armator nie kazał sobie powtarzać dwa razy, uchwycił linę okrętową, którą mu rzucił Dantès i z nadzwyczajną zręcznością, która nie przyniosłaby wstydu najwytrawniejszemu majtkowi, wspiął się na pokład po szczeblach umocowanych na zewnętrznej ścianie pękatego kadłuba.",
+    "entities": [
+      [
+        84,
+        90,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Dantès tymczasem wrócił na swoje dawne miejsce, aby nie przeszkadzać rozmowie armatora i pana Danglarsa, owego człeka, który wyszedł z kajuty na spotkanie pana Morrela.",
+    "entities": [
+      [
+        94,
+        103,
+        "Danglars"
+      ],
+      [
+        160,
+        167,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "Nowo przybyły wyglądał na dwadzieścia pięć do dwudziestu sześciu lat.",
+    "entities": []
+  },
+  {
+    "content": "Obłudna jego fizys zdradzała, że płaszczył się w obejściu ze zwierzchnikami, zaś cierpko traktował podwładnych.",
+    "entities": []
+  },
+  {
+    "content": "Piastował stanowisko agenta kasowego, a że sama ta funkcja budzi wstręt wśród marynarzy, dlatego zapewne cała załoga okazywała mu tyleż niechęci, co sympatii wobec Edmunda Dantèsa.",
+    "entities": [
+      [
+        164,
+        179,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— I cóż, wie pan już zapewne — rozpoczął Danglars — o nieszczęściu?",
+    "entities": [
+      [
+        41,
+        49,
+        "Danglars"
+      ]
+    ]
+  },
+  {
+    "content": "— Wiem już, wiem.",
+    "entities": []
+  },
+  {
+    "content": "Biedny kapitan Leclère, dzielny to był i zacny człowiek.",
+    "entities": [
+      [
+        15,
+        22,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— A nade wszystko doskonały marynarz, zestarzał się, patrząc tylko na niebo i morze, jak przystoi człowiekowi, w którego ręce złożone były interesy tak znakomitej firmy, jak Dom Handlowy Morrel i Syn — odrzekł Danglars.",
+    "entities": [
+      [
+        210,
+        218,
+        "Danglars"
+      ]
+    ]
+  },
+  {
+    "content": "— Zdaje mi się jednak — rzekł armator, śledząc wzrokiem Dantèsa — że niekoniecznie trzeba być starym wilkiem morskim, jak pan twierdzisz, aby znać dobrze swoje rzemiosło.",
+    "entities": [
+      [
+        56,
+        63,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Oto na przykład nasz drogi Edmund, bierze się za dowodzenie tak, jakby nie potrzebował niczyjej pomocy.",
+    "entities": [
+      [
+        27,
+        33,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— Zapewne — rzekł Danglars, spoglądając na Dantèsa z ukosa, a w oku błysnęła mu nienawiść.",
+    "entities": [
+      [
+        18,
+        26,
+        "Danglars"
+      ],
+      [
+        43,
+        50,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— Tak, nie podlega to żadnej wątpliwości, młode to i pewne siebie…",
+    "entities": []
+  },
+  {
+    "content": "Ledwie kapitan zamknął oczy, on natychmiast objął dowództwo bez niczyjej rady, i zamiast udać się prostą drogą do Marsylii, półtora dnia stał ze statkiem na Elbie.",
+    "entities": []
+  },
+  {
+    "content": "— Miał prawo i obowiązek objąć dowództwo statku jako drugi co do stopnia po zmarłym; że zaś stracił półtora dnia na Elbie, to źle, chyba że statek potrzebował jakiejś naprawy.",
+    "entities": []
+  },
+  {
+    "content": "— „Faraon” miał się tak dobrze jak ja, a życzę panu z całego serca takiego zdrowia jak moje, panie Morrel; straciliśmy półtora dnia, bo po prostu zachciało mu się pobyć trochę na lądzie i nic więcej.",
+    "entities": [
+      [
+        99,
+        105,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Dantès, pozwól pan tu do nas na chwilę!",
+    "entities": [
+      [
+        2,
+        8,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "— zawołał do młodzieńca armator.",
+    "entities": []
+  },
+  {
+    "content": "— Proszę wybaczyć — odpowiedział Dantès — za chwilę będę mógł panu służyć.",
+    "entities": [
+      [
+        33,
+        39,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "O sto kroków od miejsca, gdzie dwaj przyjaciele, popijając musującą malagę, wytężali czujnie wzrok i słuch, schowana za nagim wzgórzem, smaganym przez słońce i podmuchy mistrala, leżała katalońska wioseczka.",
+    "entities": []
+  },
+  {
+    "content": "W czasie, którego tu nie możemy dokładnie oznaczyć, tajemnicza jakaś kompania wyruszyła z Hiszpanii, wylądowała na tym wąskim pasemku ziemi i pozostała tu po dziś dzień.",
+    "entities": []
+  },
+  {
+    "content": "Nie wiadomo, skąd przybywali ci ludzie ani jakim językiem mówili.",
+    "entities": []
+  },
+  {
+    "content": "Jeden z ich naczelników, znający język prowansalski, uprosił marsylską gminę, aby oddała im ten nagi, jałowy przylądek, na którego brzeg, niczym starożytni żeglarze wyciągnęli swoje łodzie.",
+    "entities": []
+  },
+  {
+    "content": "Przychylono się do jego prośby i w trzy miesiące później wokół dwunastu czy piętnastu łodzi, które przywiozły tu tych nomadów morskich, powstała niewielka osada.",
+    "entities": []
+  },
+  {
+    "content": "Ową wioskę, zbudowaną w dziwaczny i malowniczy zarazem sposób, w stylu na pół hiszpańskim, na pół mauretańskim, po dziś dzień zamieszkują potomkowie tych pierwszych osadników i mówią językiem swoich ojców.",
+    "entities": []
+  },
+  {
+    "content": "Od trzech czy czterech wieków wierni są temu małemu przylądkowi, gdzie uwili swe gniazda jak gromada morskich ptaków, nie mieszając się do spraw ludności marsylskiej, żeniąc się między sobą tylko i przechowując obyczaje i ubiór narodowy tak samo, jak zachowali ojczysty język.",
+    "entities": []
+  },
+  {
+    "content": "Zaprowadźmy czytelnika, idąc wzdłuż jedynej uliczki w wiosce, do jednego z tych domów, barwionych promieniami słońca na ów piękny odcień uschłych liści, właściwy dla budynków w tych okolicach, a wewnątrz bielonych wapnem; poza owym białym tynkiem nie masz innej ozdoby w hiszpańskich dworkach.",
+    "entities": []
+  },
+  {
+    "content": "Wewnątrz wsparta o ścianę stała piękna młoda dziewczyna, o czarnych włosach i aksamitnych oczach gazeli, i mięła w palcach wysmukłych jak u antycznego posągu drobniuchną gałązkę wrzosu, zrywając z niej kwiatuszki, których szczątki sypały się na ziemię; ręce jej obnażone po łokcie, opalone, lecz foremne jak u Wenus z Arles, drżały z niecierpliwości.",
+    "entities": []
+  },
+  {
+    "content": "Wąską stopą o wysokim podbiciu tupała tak, że można było dzięki owemu ruchowi dojrzeć wspaniałą, strzelistą linię nogi, obciągniętej w bawełnianą, czerwoną pończoszkę z szarobłękitnymi klinami.",
+    "entities": []
+  },
+  {
+    "content": "O trzy kroki od niej siedział, kołysząc się rytmicznie na krześle, oparty łokciem o staroświecką spróchniałą komodę, wysoki młodzieniec lat dwudziestu lub dwudziestu dwóch i patrzył na dziewczynę wzrokiem, który wyrażał niepokój i żałość.",
+    "entities": []
+  },
+  {
+    "content": "W oczach malowało mu się zapytanie, ale dziewczyna panowała nad towarzyszem, spoglądając nań żywo i stanowczo.",
+    "entities": []
+  },
+  {
+    "content": "— Popatrz, Mercedes — mówił młodzieniec.",
+    "entities": [
+      [
+        11,
+        19,
+        "Mercedes Herrera"
+      ]
+    ]
+  },
+  {
+    "content": "— Nadchodzi Wielkanoc.",
+    "entities": []
+  },
+  {
+    "content": "Najlepszy czas, aby wyprawić wesele, odpowiedz mi, proszę!",
+    "entities": []
+  },
+  {
+    "content": "— Sto razy już ci mówiłam, Fernandzie, i doprawdy sam sobie chyba źle życzysz, kiedy mnie znów o to samo pytasz.",
+    "entities": [
+      [
+        27,
+        37,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "— I cóż z tego!",
+    "entities": []
+  },
+  {
+    "content": "Powtórz raz jeszcze, błagam, powtórz, może uda mi się uwierzyć.",
+    "entities": []
+  },
+  {
+    "content": "Powtórz raz setny, że odrzucasz moją miłość, którą matka twoja widziała dobrym okiem; spraw, abym przekonał się, że igrasz z moim szczęściem, że nie obchodzi cię ani moje życie, ani śmierć.",
+    "entities": []
+  },
+  {
+    "content": "Ach, Boże mój, Boże wielki!",
+    "entities": [
+      [
+        5,
+        9,
+        "PERSON"
+      ],
+      [
+        15,
+        19,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Marzyć dziesięć lat, że będę mężem twoim, Mercedes, i stracić całą tę nadzieję, która była jedynym celem mojego życia.",
+    "entities": []
+  },
+  {
+    "content": "— Czyż podsycałam w jakikolwiek sposób twoją nadzieję, Fernandzie? — zapytała Mercedes.",
+    "entities": [
+      [
+        55,
+        65,
+        "Fernand Mondego"
+      ],
+      [
+        78,
+        86,
+        "Mercedes Herrera"
+      ]
+    ]
+  },
+  {
+    "content": "— Nie możesz mi zarzucić, bym cię choć raz kokietowała.",
+    "entities": []
+  },
+  {
+    "content": "Nieustannie powtarzałam ci: „kocham cię jak brata, ale nic oprócz tej miłości siostrzanej nie żądaj ode mnie, bo moje serce należy do kogo innego”.",
+    "entities": []
+  },
+  {
+    "content": "Czyż nie powtarzałam ci tego, Fernandzie?",
+    "entities": [
+      [
+        30,
+        40,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "— Tak, Mercedes, mówiłaś — odpowiedział młodzieniec.",
+    "entities": []
+  },
+  {
+    "content": "— I za cnotę poczytałaś sobie traktowanie mnie z okrutną szczerością.",
+    "entities": []
+  },
+  {
+    "content": "Czyżbyś jednak zapomniała, że według uświęconego prawa Katalonka ma wychodzić za Katalończyka?",
+    "entities": [
+      [
+        55,
+        64,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Mylisz się, Fernandzie, to nie prawo, ale zwyczaj tylko, nic więcej; i radzę ci — nie przyzywaj tego zwyczaju na swoją korzyść.",
+    "entities": [
+      [
+        14,
+        24,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Fernandzie, zapadł na ciebie wyrok w komisji poborowej; jeśli dotąd posiadasz tyle swobody, to dzięki zwykłej pobłażliwości; nie dziś, to jutro możesz być powołany do wojska; zostaniesz żołnierzem, i cóż się stanie ze mną, biedną dziewczyną, sierotą, nieszczęśliwą, której całym majątkiem jest mizerna chata waląca się w gruzy i kilka zużytych rybackich sieci: oto nędzne dziedzictwo zostawione matce w spadku po ojcu, a mnie po matce.",
+    "entities": []
+  },
+  {
+    "content": "Od jej śmierci minął już rok, a ja pomyśl tylko, Fernandzie — utrzymuję się niemal z żebrania!",
+    "entities": [
+      [
+        49,
+        59,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Twierdzisz wprawdzie czasem, że ci jestem pomocna, jedynie dlatego, abyś mógł ze mną dzielić połów.",
+    "entities": []
+  },
+  {
+    "content": "Nie odmawiam ci, bo jesteś moim kuzynem, bośmy się razem wychowali, a przede wszystkim dlatego, że wiem, jak by ci było przykro, gdybym odmówiła.",
+    "entities": []
+  },
+  {
+    "content": "Czuję przecież dobrze, że te ryby, które sprzedaję, i konopie, które kupuję za uzyskane w ten sposób pieniądze i przędę potem, czuję, powtarzam ci, Fernandzie, że to tylko jałmużna.",
+    "entities": [
+      [
+        148,
+        158,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "— Cóż to wszystko znaczy, Mercedes!",
+    "entities": []
+  },
+  {
+    "content": "Choć biedna i sierota, przenoszę cię nad córkę najznaczniejszego armatora czy najbogatszego bankiera Marsylii!",
+    "entities": []
+  },
+  {
+    "content": "Bo czegóż takim jak my potrzeba?",
+    "entities": []
+  },
+  {
+    "content": "Wiernej żony i dobrej gospodyni.",
+    "entities": []
+  },
+  {
+    "content": "Gdzież znajdę dziewczynę, która lepiej spełniałaby te wymagania?",
+    "entities": []
+  },
+  {
+    "content": "— Fernandzie — rzekła Mercedes, potrząsając głową — kobieta łatwo może zostać kiepską gospodynią, kiedy nie kocha męża, ale innego mężczyznę i trudno też zatem odpowiadać za jej wierność.",
+    "entities": [
+      [
+        2,
+        12,
+        "Fernand Mondego"
+      ],
+      [
+        22,
+        30,
+        "Mercedes Herrera"
+      ]
+    ]
+  },
+  {
+    "content": "Poprzestań na mojej przyjaźni, bo tylko tyle mogę ci ofiarować, a przyrzekam tylko to, czego jestem pewna, że potrafię dotrzymać.",
+    "entities": []
+  },
+  {
+    "content": "— Ach, rozumiem — powiedział Fernand.",
+    "entities": [
+      [
+        29,
+        36,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "— Cierpliwie znosisz własną nędzę, ale lękasz się znosić biedę u mego boku.",
+    "entities": []
+  },
+  {
+    "content": "A więc, Mercedes, gdybym posiadał twoje serce, popróbowałbym szczęścia, ty byś mi je przyniosła, zdobyłbym fortunę.",
+    "entities": []
+  },
+  {
+    "content": "Mógłbym pracować jako komisant w jakiej firmie, sam mogę zostać kupcem!",
+    "entities": []
+  },
+  {
+    "content": "— Do niczego brać się nie możesz, Fernandzie, bo jesteś żołnierzem; jesteś teraz w domu dlatego, że nie ma wojny; bądź, jak byłeś, rybakiem, nie przypuszczaj do siebie marzeń, które uczynią ci rzeczywistość jeszcze bardziej okrutną, poprzestań na mojej przyjaźni, bo nie jestem w stanie ofiarować ci nic innego.",
+    "entities": [
+      [
+        34,
+        44,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "— A więc dobrze, masz słuszność, Mercedes, zostanę marynarzem, zrzucę strój naszych ojców, bo ty nim gardzisz, a przywdzieję ceratową czapkę, koszulę w paski i granatową bluzę z kotwicą na guzikach.",
+    "entities": []
+  },
+  {
+    "content": "Tak przecież trzeba się ubierać, aby ci się spodobać?",
+    "entities": []
+  },
+  {
+    "content": "— Do czego zmierzasz? — zapytała Mercedes, rzucając Fernandowi dumne spojrzenie.",
+    "entities": [
+      [
+        33,
+        41,
+        "Mercedes Herrera"
+      ],
+      [
+        52,
+        62,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "— Cóż to ma znaczyć, bo ja cię nie rozumiem.",
+    "entities": []
+  },
+  {
+    "content": "— To znaczy, Mercedes, że jesteś tak nieugięta i tak okrutna wobec mnie tylko dlatego, że czekasz tu na kogoś, kto właśnie taki nosi strój.",
+    "entities": []
+  },
+  {
+    "content": "A może ten, na którego czekasz, okazał się niestałym; a nawet jeśli byłoby inaczej, to przecież morze jest kapryśne wobec żeglarzy.",
+    "entities": []
+  },
+  {
+    "content": "— Fernandzie! — zawołała Mercedes.",
+    "entities": [
+      [
+        2,
+        12,
+        "Fernand Mondego"
+      ],
+      [
+        25,
+        33,
+        "Mercedes Herrera"
+      ]
+    ]
+  },
+  {
+    "content": "— Myślałam, że jesteś dobrym człowiekiem, ale myliłam się!",
+    "entities": []
+  },
+  {
+    "content": "Masz złe serce, jeśli w zazdrości wzywasz gniewu boskiego!",
+    "entities": []
+  },
+  {
+    "content": "A więc dobrze, tak, to prawda, ja bynajmniej się z tym nie taję, czekam na tego, o którym mówisz, i kocham go.",
+    "entities": []
+  },
+  {
+    "content": "A jeśli nie wróci, nie będę złorzeczyć kapryśności losu, którą ty wzywasz, powiem, że zginął, kochając mnie.",
+    "entities": []
+  },
+  {
+    "content": "Młody Katalończyk zadrżał z wściekłości.",
+    "entities": []
+  },
+  {
+    "content": "— Rozumiem cię, Fernandzie: będziesz z nim szukał zajścia, dlatego, że ja cię nie kocham, skrzyżujesz swój kataloński nóż z jego sztyletem!",
+    "entities": [
+      [
+        16,
+        26,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "I cóż ci to da?",
+    "entities": []
+  },
+  {
+    "content": "Jeśli przegrasz, stracisz moją przyjaźń; jeśli zwyciężysz, zobaczysz, jak moja przyjaźń w nienawiść się obraca.",
+    "entities": []
+  },
+  {
+    "content": "Uwierz, to zły sposób, jeśli ktoś, chcąc przypodobać się kobiecie, szuka zaczepki z człowiekiem, którego ona kocha.",
+    "entities": []
+  },
+  {
+    "content": "O, Fernandzie, nie chcesz się poddać tak złym myślom.",
+    "entities": [
+      [
+        3,
+        13,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Nie możesz mnie poślubić, ale możesz mieć we mnie przyjaciółkę i siostrę.",
+    "entities": []
+  },
+  {
+    "content": "Zresztą — dodała, a w jej oczach pojawiło się przerażenie i po policzkach spłynęły łzy — czekaj jeszcze, Fernandzie, czekaj; mówiłeś przed chwilą, że morze jest zdradliwe, już cztery miesiące upłynęły, a on nie wraca; przez cztery miesiące ileż burz naliczyłam!",
+    "entities": [
+      [
+        105,
+        115,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Fernand nie okazał wzruszenia, nie starał się nawet otrzeć łez, płynących po twarzy Mercedes, a przecież za każdą jej łzę utoczyłby sobie chętnie szklankę krwi; ale te łzy płynęły przecież za innym.",
+    "entities": [
+      [
+        0,
+        7,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Podniósł się, przeszedł tam i z powrotem po chacie z ponurą twarzą i zaciśniętymi pięściami.",
+    "entities": []
+  },
+  {
+    "content": "— Posłuchaj, Mercedes — rzekł.",
+    "entities": []
+  },
+  {
+    "content": "— Ostatni raz odpowiedz, czy nie zmienisz postanowienia?",
+    "entities": []
+  },
+  {
+    "content": "— Kocham Edmunda Dantèsa — odpowiedziała chłodno dziewczyna — i nikt prócz Edmunda nie zostanie moim mężem!",
+    "entities": [
+      [
+        9,
+        24,
+        "Edmund Dantès"
+      ],
+      [
+        75,
+        82,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Składał się on z czterech dziewcząt, Katalonek i przyjaciółek Mercedes, towarzyszących narzeczonej, którą prowadził pod rękę Edmund.",
+    "entities": [
+      [
+        37,
+        46,
+        "PERSON"
+      ],
+      [
+        125,
+        131,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Obok kroczył ojciec Dantèsa, za nimi zaś Fernand ze złowróżbnym uśmiechem na ustach.",
+    "entities": [
+      [
+        20,
+        27,
+        "Edmund Dantès"
+      ],
+      [
+        41,
+        48,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Ani Mercedes, ani Edmund nie dostrzegli tego uśmiechu.",
+    "entities": [
+      [
+        18,
+        24,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Biedne dzieci w szczęściu swym nie widziały nikogo prócz siebie i czystego błękitu nieba, które zdawało się im błogosławić.",
+    "entities": []
+  },
+  {
+    "content": "Danglars i Caderousse zdali sprawę ze swego poselstwa i wymieniwszy mocny, przyjacielski uścisk ręki z Edmundem, zawrócili.",
+    "entities": [
+      [
+        0,
+        8,
+        "Danglars"
+      ],
+      [
+        11,
+        21,
+        "Kacper Caderousse"
+      ],
+      [
+        103,
+        111,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Danglars szedł przy Fernandzie, Caderousse zaś obok ojca Dantèsa, na którym skupiała się uwaga wszystkich.",
+    "entities": [
+      [
+        0,
+        8,
+        "Danglars"
+      ],
+      [
+        57,
+        64,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Starzec miał na sobie odzienie z kitajki angielskiej, spinane na haftki z dużymi stalowymi guzami w kwadrat rżniętymi.",
+    "entities": []
+  },
+  {
+    "content": "Chude, ale muskularne łydki obleczone były w przepyszne, bawełniane pończochy w kropki, na milę trącące angielską kontrabandą.",
+    "entities": []
+  },
+  {
+    "content": "Z trójgraniastego kapelusza spadał pęk białych i niebieskich wstążek.",
+    "entities": [
+      [
+        2,
+        17,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Wspierał się na lasce z giętego drewna, o rączce, która przypominała antyczne pedum.",
+    "entities": []
+  },
+  {
+    "content": "Słowem, staruszek wyglądał jak jeden z fircyków, paradujących w 1796 r. w Tuileriach albo w świeżo otwartym ogrodzie luksemburskim.",
+    "entities": []
+  },
+  {
+    "content": "Obok, jak już wspomnieliśmy, wcisnął się Caderousse, ów Caderousse, który mając nadzieję na dobrą biesiadę, pogodził się już zupełnie z Dantèsem.",
+    "entities": [
+      [
+        136,
+        144,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "W jego pamięci pozostało jeszcze jakieś niewyraźne wspomnienie tego, co się działo poprzedniego dnia, tak jak to często po obudzeniu spotykamy we wspomnieniu majaki, co nas w nocy napastowały.",
+    "entities": []
+  },
+  {
+    "content": "Danglars, podchodząc do Fernanda, spojrzał badawczo na wzgardzonego kochanka.",
+    "entities": [
+      [
+        0,
+        8,
+        "Danglars"
+      ],
+      [
+        24,
+        32,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Fernand szedł za przyszłymi małżonkami całkiem zapomniany przez Mercedes, bo dziewczyna w młodzieńczej swej radości, aż do egoizmu posuniętej, i urocza w swym zakochaniu, widziała tylko Edmunda.",
+    "entities": [
+      [
+        0,
+        7,
+        "Fernand Mondego"
+      ],
+      [
+        186,
+        193,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Fernand to bladł, to czerwieniał, ale rumieńce na jego twarzy ustępowały miejsca coraz to bardziej rosnącej bladości.",
+    "entities": [
+      [
+        0,
+        7,
+        "Fernand Mondego"
+      ]
+    ]
+  },
+  {
+    "content": "Niekiedy spoglądał w stronę Marsylii, wówczas nerwowy dreszcz przejmował mimowolnie jego ciało.",
+    "entities": []
+  },
+  {
+    "content": "Zdawał się oczekiwać na, albo raczej przewidywać jakieś wielkie wydarzenie.",
+    "entities": []
+  },
+  {
+    "content": "Ubiór Dantèsa był skromny: jako oficer marynarki handlowej nosił strój, który miał coś i z wojskowego munduru, i z cywilnego ubrania; w stroju tym wyglądał znakomicie, a uroda i radość narzeczonej jeszcze przydawała mu wdzięku.",
+    "entities": [
+      [
+        6,
+        13,
+        "Edmund Dantès"
+      ]
+    ]
+  },
+  {
+    "content": "Mercedes przypominała z wyglądu greckie piękności z Cypru lub Ceosu o czarnych oczach i koralowych ustach.",
+    "entities": [
+      [
+        62,
+        67,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Stąpała lekko i śmiało jak Arlezjanki lub Andaluzyjki.",
+    "entities": [
+      [
+        27,
+        37,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Dziewczyna z miasta starałaby się może ukrywać swą radość pod lekką jaką zasłoną, albo przynajmniej pod aksamitem powiek, ale Mercedes uśmiechała się i patrzyła na wszystkich, co ją otaczali, a w jej spojrzeniu i uśmiechu czytało się słowa, które mogłyby wyrzec jej usta: „Jeśliście moimi przyjaciółmi, cieszcie się wraz ze mną, bo naprawdę jestem bardzo szczęśliwa”.",
+    "entities": [
+      [
+        126,
+        134,
+        "Mercedes Herrera"
+      ]
+    ]
+  },
+  {
+    "content": "Jakiś starzec z Orderem Świętego Ludwika na piersi powstał i wzniósł zdrowie króla Ludwika XVIII.",
+    "entities": [
+      [
+        24,
+        40,
+        "PERSON"
+      ],
+      [
+        83,
+        96,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Był to markiz de Saint-Méran.",
+    "entities": []
+  },
+  {
+    "content": "Na ów toast, budzący tyle wspomnień, powstało wielkie poruszenie, wszyscy unieśli szklanki w górę na sposób angielski, kobiety odpięły bukieciki i zasłały nimi stół cały.",
+    "entities": []
+  },
+  {
+    "content": "Zapał nieledwie poetycki ogarnął całe towarzystwo.",
+    "entities": []
+  },
+  {
+    "content": "— Gdyby tu byli, musieliby przyznać — rzekła markiza Saint-Méran, kobieta o surowym wyrazie oczu, wąskich ustach, która mimo wieku 50 już lat zachowała arystokratyczną i wykwintną postawę — musieliby przyznać ci wszyscy rewolucjoniści, co nas wygnali, a którym my teraz pozwalamy knuć spiski w naszych własnych pałacach kupionych w czasie terroryzmu za wydarty kawałek chleba, że daliśmy przykład prawdziwego poświęcenia, trzymając stronę upadającej monarchii, podczas gdy oni witali wschodzące słońce i robili majątek, gdy my traciliśmy nasze fortuny.",
+    "entities": [
+      [
+        53,
+        64,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Przyznaliby, powtarzam, że nasz król Ludwik XVIII jest nam rzeczywiście miłościwie panującym władcą, zaś ich uzurpator był dla nich tylko Napoleonem złowrogim, czyż nie tak, panie de Villefort?",
+    "entities": [
+      [
+        37,
+        49,
+        "PERSON"
+      ],
+      [
+        138,
+        148,
+        "PERSON"
+      ],
+      [
+        180,
+        192,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "— Co pani raczyła powiedzieć?",
+    "entities": []
+  },
+  {
+    "content": "Proszę darować, nie uważałem na bieg rozmowy.",
+    "entities": []
+  },
+  {
+    "content": "— Ech, daj pokój tym dzieciom, pani markizo — rzekł starzec.",
+    "entities": [
+      [
+        36,
+        43,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Mają się pobrać, więc też co innego im w głowie, nie polityka.",
+    "entities": []
+  },
+  {
+    "content": "— Przepraszam, mamo — rzekła młoda, jasnowłosa dziewczyna o aksamitnych, błyszczących oczach.",
+    "entities": []
+  },
+  {
+    "content": "— Oddaję ci pana de Villeforta, którego zagarnęłam.",
+    "entities": [
+      [
+        17,
+        30,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Panie prokuratorze, moja matka rzekła coś do pana.",
+    "entities": []
+  },
+  {
+    "content": "— Gotów jestem odpowiedzieć pani markizie, jeśli raczy zapytać ponownie, bo nie słyszałem pytania.",
+    "entities": []
+  },
+  {
+    "content": "— Przebaczam ci, Reniu — rzekła markiza i jej twarz rozjaśniła się uśmiechem, który zadziwiał na tym oschłym obliczu; bo w sercu kobiety, choć przesądy i prawa etykiety czynią go zimnym i twardym, znajdzie się zawsze zakątek pełen czułości i uśmiechu, ten, który Stwórca przeznaczył na uczucia macierzyńskie.",
+    "entities": [
+      [
+        17,
+        22,
+        "PERSON"
+      ],
+      [
+        263,
+        270,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Mówiłam właśnie panu de Villefortowi, że bonapartyści nie mieli ani takiej jak my wiary w słuszność idei, ani takiego entuzjazmu, ani takiego poświęcenia.",
+    "entities": [
+      [
+        23,
+        38,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "— Tak, pani markizo, ale jest w nich jednak cecha, która wszystko zastępuje: fanatyzm.",
+    "entities": [
+      [
+        12,
+        19,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Napoleon to Mahomet Zachodu.",
+    "entities": [
+      [
+        0,
+        8,
+        "PERSON"
+      ],
+      [
+        12,
+        27,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Dla tych wszystkich prostych, lecz ambitnych do najwyższego stopnia ludzi, jest on nie tylko prawodawcą i panem, ale także wyrazem i wcieleniem równości.",
+    "entities": []
+  },
+  {
+    "content": "— Równości! — zawołała markiza.",
+    "entities": []
+  },
+  {
+    "content": "— Napoleon uosobieniem równości!",
+    "entities": [
+      [
+        2,
+        10,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "A cóż wobec tego powiesz o panu Robespierze?",
+    "entities": [
+      [
+        32,
+        43,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Zdaje mi się, że kradniesz mu pan pierwszeństwo, przyznając to Korsykaninowi, który przecież i tak sobie dużo przywłaszczył?",
+    "entities": [
+      [
+        63,
+        76,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Nie, pani markizo, zostawiam każdego z nich na właściwym mu piedestale: Robespierre'a na szafocie zbudowanym na placu Ludwika XV, Napoleona na kolumnie, na placu Vendôme; jeden stworzył równość, która poniża, drugi równość, która wywyższa; jeden sprowadził królów do poziomu gilotyny, a drugi wyniósł lud aż na tron.",
+    "entities": [
+      [
+        12,
+        19,
+        "PERSON"
+      ],
+      [
+        74,
+        87,
+        "PERSON"
+      ],
+      [
+        132,
+        141,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "To jednak nie przeszkadza — dodał Villefort, śmiejąc się — aby obaj nie byli nikczemnymi rewolucjonistami i aby 9 termidora oraz 4 kwietnia 1814 roku nie były dla Francji dniami świętymi, godnymi, aby zwolennicy porządku i monarchii obchodzili ich rocznicę jednakowo uroczyście.",
+    "entities": [
+      [
+        34,
+        43,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Ale tłumaczy też, dlaczego Napoleon, choć upadł, aby — jak się spodziewam — nigdy się już nie podnieść, posiada nadal stronników.",
+    "entities": [
+      [
+        27,
+        35,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Cóż robić, pani markizo?",
+    "entities": [
+      [
+        16,
+        23,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Cromwell, który nie miał nawet połowy geniuszu Napoleona, miał także swoich zwolenników.",
+    "entities": [
+      [
+        47,
+        56,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Wie pan co, panie de Villefort, wszystko, coś powiedział, na milę trąci rewolucją.",
+    "entities": [
+      [
+        20,
+        32,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Przebaczam to jednak panu, trudno, aby syn żyrondysty pozbył się całkowicie ojcowskich wad.",
+    "entities": []
+  },
+  {
+    "content": "Mocny rumieniec wystąpił na twarz pana de Villeforta.",
+    "entities": [
+      [
+        39,
+        52,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "— Prawda, że mój ojciec był żyrondystą, ale mój ojciec nie głosował za śmiercią króla, był skazany na wygnanie za tego samego terroru, kiedy i państwo byli wygnani z kraju, i niewiele brakowało, aby głowa jego spadła na tym samym szafocie, na którym postradał życie ojciec pani.",
+    "entities": []
+  },
+  {
+    "content": "— Tak — rzekła markiza, a to straszliwe wspomnienie nic nie zmieniło w spokojnym wyrazie jej twarzy.",
+    "entities": []
+  },
+  {
+    "content": "— Ale cierpieli oni za zupełnie odmienne poglądy polityczne, czego dowodem jest to, że cała moja rodzina dochowała wierności wygnanym książętom, a pański ojciec pospieszył co prędzej z hołdem dla nowego rządu; gdy obywatel Noirtier był żyrondystą, hrabia Noirtier został senatorem.",
+    "entities": [
+      [
+        223,
+        231,
+        "Noirtier de Villefort"
+      ],
+      [
+        255,
+        263,
+        "Noirtier de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "— Mamo, mamo — rzekła Renata — przecież postanowiliśmy nie wracać już do tych okropnych wspomnień.",
+    "entities": [
+      [
+        22,
+        28,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Łaskawa pani — dodał Villefort — dołączę moje prośby do próśb panny de Saint-Méran, abyś raczyła puścić w niepamięć moją przeszłość.",
+    "entities": [
+      [
+        23,
+        32,
+        "Gerard de Villefort"
+      ],
+      [
+        70,
+        84,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Po cóż obwiniać się o rzeczy, wobec których sam Bóg jest bezsilny?",
+    "entities": [
+      [
+        48,
+        51,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Bóg może rządzić przyszłością, nie może jednak zmienić przeszłości.",
+    "entities": [
+      [
+        0,
+        3,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "I cóż nam, zwykłym ludziom, pozostaje?",
+    "entities": []
+  },
+  {
+    "content": "Możemy się wyprzeć przeszłości lub przynajmniej rzucić na nią zasłonę.",
+    "entities": []
+  },
+  {
+    "content": "Co do mnie, nie tylko wyznaję inne zasady od mego ojca, ale nawet noszę już inne nazwisko.",
+    "entities": []
+  },
+  {
+    "content": "Mój ojciec był, a może i dotąd jest bonapartystą i nazywa się Noirtier, ja zaś jestem rojalistą i nazywam się Villefort.",
+    "entities": [
+      [
+        62,
+        70,
+        "Noirtier de Villefort"
+      ],
+      [
+        110,
+        119,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Proszę pozwolić, aby resztki rewolucyjnych soków zginęły w tym spróchniałym pniu; niech pani spogląda tylko na gałązkę owego pnia, która odchyla się od pnia, nie mogąc, a powiem nawet: nie chcąc się od niego całkowicie oderwać.",
+    "entities": []
+  },
+  {
+    "content": "— Brawo, Villefort, brawo — rzekł markiz.",
+    "entities": [
+      [
+        9,
+        18,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "— Świetnieś rzekł.",
+    "entities": []
+  },
+  {
+    "content": "Ileż razy błagałem żonę, aby zapomniała o przeszłości — i zawsze bez skutku.",
+    "entities": []
+  },
+  {
+    "content": "Mam nadzieję, że będziesz miał pan więcej szczęścia.",
+    "entities": []
+  },
+  {
+    "content": "— Dobrze — rzekła markiza — zapomnijmy o przeszłości, niczego więcej nie żądam.",
+    "entities": []
+  },
+  {
+    "content": "Pragnę tylko, aby w przyszłości pan de Villefort okazał się nieugięty.",
+    "entities": [
+      [
+        36,
+        48,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Niech pan nie zapomina, że odpowiadamy za pana przed Jego Królewską Mością i Najjaśniejszy Pan za naszym wstawiennictwem raczył zapomnieć — (w tym miejscu wyciągnęła do Villeforta rękę) — tak ja zapomnę na pańską prośbę.",
+    "entities": [
+      [
+        169,
+        179,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Ale pamiętaj, jeśli wpadnie ci w ręce jaki spiskowiec, że zwróconych jest na ciebie wiele bacznych oczu, należysz bowiem do rodziny, która może utrzymywać jakieś stosunki z konspiratorami.",
+    "entities": []
+  },
+  {
+    "content": "— Niestety, droga pani — odrzekł Villefort — mój urząd, a szczególnie czasy, w których żyjemy, nakazują mi surowość.",
+    "entities": [
+      [
+        33,
+        42,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "Muszę być surowy.",
+    "entities": []
+  },
+  {
+    "content": "Kilkakrotnie oskarżałem już w sprawach politycznych i dowiodłem pod tym względem mej nieskazitelności.",
+    "entities": []
+  },
+  {
+    "content": "Na nieszczęście to jeszcze nie koniec.",
+    "entities": []
+  },
+  {
+    "content": "— Tak pan sądzi? — zdziwiła się markiza.",
+    "entities": []
+  },
+  {
+    "content": "— Obawiam się.",
+    "entities": []
+  },
+  {
+    "content": "Napoleon, osadzony na Elbie, ma blisko do Francji; jego obecność niemal widoczna z naszych brzegów podtrzymuje nadzieje jego stronników.",
+    "entities": [
+      [
+        0,
+        8,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "W samej Marsylii jest mnóstwo oficerów na przymusowej emeryturze, którzy codziennie szukają pretekstu do zwady z rojalistami; stąd biorą się pojedynki pomiędzy ludźmi z wyższych klas, stąd morderstwa popełniane przez ludzi z gminu.",
+    "entities": []
+  },
+  {
+    "content": "— Ale, ale — odezwał się hrabia de Salvieux, stary przyjaciel markiza de Saint-Méran i szambelan hrabiego d'Artois.",
+    "entities": [
+      [
+        32,
+        43,
+        "PERSON"
+      ],
+      [
+        70,
+        84,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Czy wiecie, że Święte Przymierze postanowiło go przenieść?",
+    "entities": []
+  },
+  {
+    "content": "— A tak.",
+    "entities": []
+  },
+  {
+    "content": "Była o tym mowa, kiedyśmy wyjeżdżali z Paryża — rzekł pan de Saint-Méran.",
+    "entities": [
+      [
+        58,
+        72,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— A gdzie chcą go wysłać?",
+    "entities": []
+  },
+  {
+    "content": "— Na Świętą Helenę.",
+    "entities": [
+      [
+        12,
+        18,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Na Świętą Helenę!",
+    "entities": [
+      [
+        12,
+        18,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Cóż to takiego? — zapytała markiza.",
+    "entities": []
+  },
+  {
+    "content": "— Wyspa oddalona o dwa tysiące mil, na południe od równika — odpowiedział hrabia.",
+    "entities": []
+  },
+  {
+    "content": "— Bogu dzięki!",
+    "entities": [
+      [
+        2,
+        6,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "To była wielka niedorzeczność, jak powiada Villefort, zostawiać takiego człowieka pomiędzy Korsyką, gdzie się urodził, i Neapolem, gdzie dotąd panuje jego szwagier, poza tym w takiej bliskości Włoch, które miały zostać królestwem jego syna!",
+    "entities": [
+      [
+        43,
+        52,
+        "Gerard de Villefort"
+      ],
+      [
+        121,
+        129,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Niestety — rzekł Villefort.",
+    "entities": [
+      [
+        19,
+        28,
+        "Gerard de Villefort"
+      ]
+    ]
+  },
+  {
+    "content": "— Istnieje traktat z 1814 roku i nie wolno tknąć Napoleona, nie złamawszy jego zasad.",
+    "entities": [
+      [
+        49,
+        58,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— No to się je złamie — rzekł pan de Salvieux.",
+    "entities": [
+      [
+        34,
+        45,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Czy Napoleon myślał o zasadach, kiedy kazał rozstrzelać księcia d'Enghien?",
+    "entities": [
+      [
+        6,
+        14,
+        "PERSON"
+      ],
+      [
+        66,
+        75,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Cudzoziemcowi wydało się, że ktoś idzie wolno po schodach — szło kilka osób, a zatrzymały się na podeście.",
+    "entities": [
+      [
+        0,
+        13,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Wsunięto klucz do zamka w pierwszych drzwiach, które skrzypnęły w zawiasach.",
+    "entities": []
+  },
+  {
+    "content": "— Tylko dwie osoby mają klucz od tych drzwi — szepnął Morrel.",
+    "entities": [
+      [
+        54,
+        60,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Kokles i Julia.",
+    "entities": [
+      [
+        2,
+        8,
+        "Kokles"
+      ],
+      [
+        11,
+        16,
+        "Julia Morrel-Herbaut"
+      ]
+    ]
+  },
+  {
+    "content": "W tym momencie otwarły się drugie drzwi i ukazała się dziewczyna, blada, z twarzą zalaną łzami.",
+    "entities": []
+  },
+  {
+    "content": "Morrel wstał drżący i oparł się o poręcz fotela, bo nie mógł już o własnej mocy ustać na nogach.",
+    "entities": []
+  },
+  {
+    "content": "Chciał zapytać, ale zabrakło mu głosu.",
+    "entities": []
+  },
+  {
+    "content": "— O mój ojcze! — zawołała dziewczyna, załamując ręce.",
+    "entities": []
+  },
+  {
+    "content": "— Przebacz swemu dziecku, że ci musi przynieść złą nowinę.",
+    "entities": []
+  },
+  {
+    "content": "Morrel zbladł okropnie; Julia rzuciła się w jego objęcia.",
+    "entities": [
+      [
+        24,
+        29,
+        "Julia Morrel-Herbaut"
+      ]
+    ]
+  },
+  {
+    "content": "— Ojcze!",
+    "entities": []
+  },
+  {
+    "content": "Ojcze! — mówiła.",
+    "entities": []
+  },
+  {
+    "content": "— Bądź odważny!",
+    "entities": []
+  },
+  {
+    "content": "— „Faraon” zatonął? — rzekł Morrel, a słowa więzły mu w gardle.",
+    "entities": [
+      [
+        28,
+        34,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "Dziewczyna nie odpowiedziała, ale skinęła głową, którą trzymała na piersi ojca.",
+    "entities": []
+  },
+  {
+    "content": "— A załoga? — zapytał Morrel.",
+    "entities": [
+      [
+        22,
+        28,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Ocalona, przez statek, który wszedł teraz do portu.",
+    "entities": []
+  },
+  {
+    "content": "Morrel podniósł ręce do nieba, a ów podniosły gest wyrażał wdzięczność i rezygnację jednocześnie.",
+    "entities": []
+  },
+  {
+    "content": "— Dzięki ci, Boże — powiedział — cios tylko mnie dotyka!",
+    "entities": [
+      [
+        13,
+        17,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Pomimo całej flegmy Anglika łzy zakręciły mu się w oczach.",
+    "entities": []
+  },
+  {
+    "content": "— Wejdźcie — rzekł Morrel.",
+    "entities": [
+      [
+        19,
+        25,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Wejdźcie, bo się domyślam, że wszyscy jesteście za drzwiami.",
+    "entities": []
+  },
+  {
+    "content": "Ledwie wymówił te słowa, ukazała się rozszlochana pani Morrel, a za nią wszedł Emanuel.",
+    "entities": [
+      [
+        55,
+        61,
+        "Piotr Morrel"
+      ],
+      [
+        79,
+        86,
+        "Emanuel Herbaut"
+      ]
+    ]
+  },
+  {
+    "content": "W głębi przedpokoju widać było surowe rysy kilku półnagich marynarzy.",
+    "entities": []
+  },
+  {
+    "content": "Na widok tych ludzi Anglik zadrżał; postąpił krok naprzód, jak gdyby chciał do nich podbiec, lecz zapanował nad sobą i skrył się w najciemniejszym i najdalszym kącie gabinetu.",
+    "entities": []
+  },
+  {
+    "content": "Pani Morrel usiadła w fotelu i wzięła męża za rękę, a Julia nadal przytulała się do ojca.",
+    "entities": [
+      [
+        5,
+        11,
+        "Piotr Morrel"
+      ],
+      [
+        54,
+        59,
+        "Julia Morrel-Herbaut"
+      ]
+    ]
+  },
+  {
+    "content": "Emanuel stał pośrodku pokoju i zdawał się pośrednikiem łączącym rodzinę Morrelów z żeglarzami stojącymi nadal w drzwiach.",
+    "entities": [
+      [
+        0,
+        7,
+        "Emanuel Herbaut"
+      ],
+      [
+        72,
+        80,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Jak to się stało? — zapytał Morrel.",
+    "entities": [
+      [
+        30,
+        36,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Chodźcie tu, Penelonie — rzekł młodzieniec — i opowiedzcie nam cały wypadek.",
+    "entities": []
+  },
+  {
+    "content": "Stary marynarz, ogorzały od słońca równikowego, postąpił do przodu, mnąc w ręku resztki kapelusza.",
+    "entities": []
+  },
+  {
+    "content": "— Dzień dobry, panie Morrel — rzekł, jak gdyby wczoraj zaledwie wyjechał z Marsylii, a dziś wracał właśnie z Aix lub Tulonu.",
+    "entities": [
+      [
+        21,
+        27,
+        "Piotr Morrel"
+      ]
+    ]
+  },
+  {
+    "content": "— Dzień dobry, drogi przyjacielu — odrzekł armator, nie mogąc powstrzymać się mimo łez od uśmiechu.",
+    "entities": []
+  },
+  {
+    "content": "— Ale gdzie jest kapitan?",
+    "entities": []
+  },
+  {
+    "content": "— Kapitan, panie Morrel, zachorował i pozostał w Palmie, ale Bóg da, że to się skończy na niczym i ujrzy pan go za dni kilka zdrowego jak ryba.",
+    "entities": [
+      [
+        17,
+        23,
+        "Piotr Morrel"
+      ],
+      [
+        61,
+        64,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— To dobrze…",
+    "entities": []
+  },
+  {
+    "content": "Opowiadaj teraz, Penelonie — rzekł Morrel.",
+    "entities": [
+      [
+        35,
+        41,
+        "Piotr Morrel"
+      ]
+    ]
+  }
+]

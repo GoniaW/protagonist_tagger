@@ -1,0 +1,1352 @@
+[
+  {
+    "content": "— Jak się czujesz, Robinsonie? — spytał mnie kolega szkolny widząc, że wychodzę na pokład.",
+    "entities": [
+      [
+        19,
+        29,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Pewnie bałeś się trochę, gdyśmy tej nocy mieli pełno wiatru w czapce?",
+    "entities": []
+  },
+  {
+    "content": "Przyszedłszy do siebie zauważyłem, że leżę wysoko na skale.",
+    "entities": []
+  },
+  {
+    "content": "Fale cofnęły się daleko, ale zaczęły właśnie sposobić nowy napad.",
+    "entities": []
+  },
+  {
+    "content": "Znając już ich gwałtowność i chyżość, chwyciłem z całej siły oburącz cypel skalny, by nie zostać spłukany.",
+    "entities": []
+  },
+  {
+    "content": "Nastąpił zalew, pokryła mnie zielonawa grzywa, ale trzymając się rozpaczliwie, zdołałem ujść zagłady.",
+    "entities": []
+  },
+  {
+    "content": "W chwili, gdym mógł chwycić oddech, zlazłem śpiesznie na dół i zacząłem biec jak szalony w głąb wybrzeża wznoszącego się dość stromo tuż za skałą.",
+    "entities": []
+  },
+  {
+    "content": "Dotarłszy tam, gdzie nie sięgało już morze, usiadłem w trawie.",
+    "entities": []
+  },
+  {
+    "content": "Po dziesięciu czy dwunastu dniach pobytu przyszło mi na myśl, że stracę zupełnie rachubę czasu, a nawet nie będę mógł święcić niedzieli, jeśli nie urządzę czegoś w rodzaju kalendarza.",
+    "entities": []
+  },
+  {
+    "content": "Sporządziłem tedy z dwu desek wielki krzyż i wyciąłem na nim napis: Dnia 30-go września wylądował tu Robinson Crusoe.",
+    "entities": [
+      [
+        101,
+        116,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Dnia 24 grudnia.",
+    "entities": []
+  },
+  {
+    "content": "W ojczyźnie obchodzą dziś wszyscy Boże Narodzenie.",
+    "entities": [
+      [
+        34,
+        38,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Czyż żyją jeszcze ojciec mój i matka?",
+    "entities": []
+  },
+  {
+    "content": "Czyż wspominają jeszcze czasem o swym niewdzięcznym i nierozsądnym synu?",
+    "entities": []
+  },
+  {
+    "content": "Sądzą pewnie od całych lat, że nie żyję!",
+    "entities": []
+  },
+  {
+    "content": "I w samej rzeczy zmarłem, dla całego świata jestem tak jakby umarłym człowiekiem!",
+    "entities": []
+  },
+  {
+    "content": "Biedny, biedny Robinsonie!",
+    "entities": []
+  },
+  {
+    "content": "Ale nie traćmy otuchy…",
+    "entities": []
+  },
+  {
+    "content": "Bóg nad nami, a Robinson Crusoe żyje jeszcze!",
+    "entities": [
+      [
+        0,
+        3,
+        "PERSON"
+      ],
+      [
+        16,
+        31,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Przy tym zajęciu gadałem wciąż do Pola, by go nauczyć mówić.",
+    "entities": [
+      [
+        34,
+        38,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Nawykł do swego imienia, a gdy po raz pierwszy zawołał: — Biedny, biedny Robinsonie!",
+    "entities": []
+  },
+  {
+    "content": "— nie mogłem powstrzymać łez, słysząc ludzkie słowa, wypowiedziane innym niż mój własny językiem.",
+    "entities": []
+  },
+  {
+    "content": "Jak głupiec przystąpiłem do roboty, marząc o bliskim wyzwoleniu, a ile razy nachodziły mnie myśli o trudach transportu lądem, powtarzałem sobie:",
+    "entities": []
+  },
+  {
+    "content": "— Jakoś to będzie!",
+    "entities": []
+  },
+  {
+    "content": "Nie trap się, Robinsonie!",
+    "entities": []
+  },
+  {
+    "content": "Zrób tylko czółno, a reszta przyjdzie sama!",
+    "entities": []
+  },
+  {
+    "content": "Wyczerpany długim wiosłowaniem i drogą pieszą nie mogłem odrazu zebrać zmysłów i byłem pewny, że śnię.",
+    "entities": []
+  },
+  {
+    "content": "Ale powtarzane ciągle te same słowa wróciły mi w końcu przytomność.",
+    "entities": []
+  },
+  {
+    "content": "Skoczyłem przerażony na równe nogi, ale otarłszy oczy, ujrzałem mego Pola, siedzącego na płocie.",
+    "entities": [
+      [
+        69,
+        73,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Poznałem zaraz, że to papuga mnie wołała, gdyż przemawiałem do niej tym samym tonem.",
+    "entities": []
+  },
+  {
+    "content": "Ptak stał się z biegiem czasu tak pojętny i przywiązany, że mi siadał na palcu i tuląc głowę do mej twarzy powtarzał przymilnie: — Biedny Robinson!",
+    "entities": [
+      [
+        138,
+        146,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Gdzież to byłeś,",
+    "entities": []
+  },
+  {
+    "content": "Robinsonie Crusoe?",
+    "entities": []
+  },
+  {
+    "content": "Co robiłeś,",
+    "entities": []
+  },
+  {
+    "content": "Robinsonie Crusoe?",
+    "entities": []
+  },
+  {
+    "content": "Skąd wracasz?… i tym podobne wyrazy.",
+    "entities": []
+  },
+  {
+    "content": "Mimo że wiedziałem już, iż mnie wołała papuga, nie mogłem się uspokoić i łamałem sobie głowę nad pytaniem, czemu tu przyleciała właśnie.",
+    "entities": []
+  },
+  {
+    "content": "Uradowany widokiem wiernego przyjaciela, podałem palec, a Pol siadł na nim zaraz, pytając dalej, gdzie był biedny Robinson Crusoe, co robił i skąd wraca, zupełnie jakby się radował mym widokiem.",
+    "entities": [
+      [
+        58,
+        61,
+        "PERSON"
+      ],
+      [
+        114,
+        129,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Pogładziłem czule papugę i zabrałem ze sobą do domu.",
+    "entities": []
+  },
+  {
+    "content": "Na tych rozmowach ubiegł wieczór i większa część nocy, a o świcie przybył kapitan, by mnie zabrać wraz z wiernym Piętaszkiem na pokład.",
+    "entities": []
+  },
+  {
+    "content": "Biedny chłopak z wielkim żalem opuszczał wyspę, tym więcej, że było stąd blisko do stałego lądu, gdzie mieszkało jego plemię.",
+    "entities": []
+  },
+  {
+    "content": "Najbardziej jednak trapiło go, że odjedzie, nie pożegnawszy starego ojca swego, a wyznaję, że mnie ta okoliczność smuciła.",
+    "entities": []
+  },
+  {
+    "content": "Byłbym ostatecznie czekał powrotu Hiszpanów i starego Karaiba, ale kapitan oświadczył, że przy panującej obecnie ciszy morskiej podróż potrwa i tak długo, zaś okręt posiada bardzo mało prowiantu, zwłaszcza solonego mięsa, toteż odkładać wyjazdu nie można.",
+    "entities": [
+      [
+        54,
+        61,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Pocieszałem tedy, jak mogłem, biednego Piętaszka, a najlepszy skutek odniosło, gdym mu pozostawił wolność pozostania i powrotu do ojczyzny.",
+    "entities": [
+      [
+        39,
+        48,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Popatrzył na mnie przerażony, jakbym go posądzał o jakąś straszną zbrodnię, potem zaś padł mi do nóg, objął me kolana i zawołał głosem przerywanym przez łzy:",
+    "entities": []
+  },
+  {
+    "content": "— Nie, panie!",
+    "entities": []
+  },
+  {
+    "content": "Nie, panie!",
+    "entities": []
+  },
+  {
+    "content": "Piętaszek zostać, gdzie jego dobry, kochany pan!",
+    "entities": [
+      [
+        0,
+        9,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Piętaszek kocha bardzo, bardzo, dużo swój stary ojciec, ale kocha bardzo, bardzo, dużo, więcej swój pan Robinson Crusoe!",
+    "entities": [
+      [
+        0,
+        9,
+        "Piętaszek"
+      ],
+      [
+        104,
+        119,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Wzruszony wielce objąłem go w ramiona, a gdym mu zapowiedział, że niedługo wrócę na tę wyspę, by przekonać się, jak stoją sprawy kolonii, zaczął skakać, tańczyć i otarłszy łzy pomagał mi dzielnie pakować rzeczy, które chciałem zabrać ze sobą.",
+    "entities": []
+  },
+  {
+    "content": "Myśl, że zobaczy jeszcze ojca, pogodziła go z odjazdem.",
+    "entities": []
+  },
+  {
+    "content": "— Nie spotkało mnie wcale żadne nieszczęście!",
+    "entities": []
+  },
+  {
+    "content": "— odparłem — Przeciwnie, Bóg obdarował mnie tym wielkim szczęściem, że mogę cię jeszcze widzieć, drogi ojcze mój.",
+    "entities": [
+      [
+        25,
+        28,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Czyż mnie naprawdę nie poznajesz, ojcze?",
+    "entities": []
+  },
+  {
+    "content": "Jestem Robinson, syn twój!",
+    "entities": [
+      [
+        7,
+        15,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Starzec wyprostował się i spojrzał uważnie.",
+    "entities": []
+  },
+  {
+    "content": "Wielka radość zabłysła w jego na poły zagasłych oczach.",
+    "entities": []
+  },
+  {
+    "content": "Potem podniósł drżące ramiona, otoczył mą szyję i przycisnął mnie do piersi.",
+    "entities": []
+  },
+  {
+    "content": "— Synu mój! — zawołał.",
+    "entities": []
+  },
+  {
+    "content": "— Syn utracony wrócił!",
+    "entities": []
+  },
+  {
+    "content": "Chwała bądź Bogu przedwiecznemu!",
+    "entities": [
+      [
+        12,
+        16,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "O, teraz już zaprawdę mogę lec spokojnie w grobie!",
+    "entities": []
+  },
+  {
+    "content": "Szczęsny to był dzień.",
+    "entities": [
+      [
+        0,
+        8,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Ojciec trzymał mnie ciągle przy sobie i nie puszczał mej ręki z dłoni.",
+    "entities": []
+  },
+  {
+    "content": "Radość siostry mojej była też wielka, a niebawem dom zaroił się sąsiadami i dawnymi znajomymi, którzy przybiegli, chcąc zobaczyć odzyskanego Robinsona i jego czarnego towarzysza.",
+    "entities": [
+      [
+        141,
+        150,
+        "Robinson Crusoe"
+      ]
+    ]
+  },
+  {
+    "content": "Poczciwy Piętaszek był bardzo uradowany szczęściem swego pana i zaczął opowiadać wszystko w sposób tak komiczny, że cały dom zawrzał niezmierną wesołością, a śmiał się nawet nieraz serdecznie sędziwy ojciec, który liczył obecnie sześćdziesiąt dziewięć lat.",
+    "entities": [
+      [
+        9,
+        18,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Długo nie mogliśmy obaj wyrzec słowa.",
+    "entities": []
+  },
+  {
+    "content": "Kapitan był równie jak ja wzruszony, chociaż z innego powodu.",
+    "entities": []
+  },
+  {
+    "content": "Zaczął mnie ponownie zapewniać o swej wielkiej wdzięczności i prosił serdecznie, bym się uspokoił.",
+    "entities": []
+  },
+  {
+    "content": "Trudno było to zrobić i dopiero ponowny wybuch płaczu ulżył mi i przywrócił mowę.",
+    "entities": []
+  },
+  {
+    "content": "Objąwszy znowu kapitana, podziękowałem mu za wyzwolenie i oświadczyłem, żem go od razu uznał za wysłańca niebios, zaś jego przybycie jest największym cudem, jaki przeżyłem na tej wyspie.",
+    "entities": []
+  },
+  {
+    "content": "Gdyśmy tak wzajem ulżyli sercom naszym oraz złożyli Bogu dzięki za ocalenie, zawiadomił mnie kapitan, że przywiózł coś na przekąskę, chociaż niewiele zostało na okręcie, gdyż buntownicy spożyli co najlepsze zapasy.",
+    "entities": [
+      [
+        52,
+        56,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Krzyknął na ludzi czekających w czółnie, by przynieśli rzeczy, przeznaczone dla pana namiestnika.",
+    "entities": []
+  },
+  {
+    "content": "Po chwili przywlókł Piętaszek do mej fortecy taką masę różności, jakby szło nie tylko o obdarowanie mnie, ale zaprowiantowanie na czas długi.",
+    "entities": [
+      [
+        20,
+        29,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Tom nastawił uszu.",
+    "entities": [
+      [
+        0,
+        3,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Czyś to ty, Jack? — odkrzyknął, poznawszy głos.",
+    "entities": [
+      [
+        2,
+        6,
+        "PERSON"
+      ],
+      [
+        14,
+        18,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Tak, to ja, Tomie!",
+    "entities": [
+      [
+        14,
+        19,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Radzę ci, rzuć na miłość boską broń i każ to zrobić innym!",
+    "entities": []
+  },
+  {
+    "content": "Inaczej wszystko przepadnie.",
+    "entities": []
+  },
+  {
+    "content": "Poddajcie się póki czas!",
+    "entities": []
+  },
+  {
+    "content": "— Komu się mamy poddać? — spytał Tom.",
+    "entities": [
+      [
+        33,
+        36,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Któż tego żąda?",
+    "entities": []
+  },
+  {
+    "content": "— Tu stoi nasz kapitan wraz z pięćdziesięciu żołnierzami! — odparł Jack.",
+    "entities": [
+      [
+        67,
+        71,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Od pół godziny śledzą oni was.",
+    "entities": []
+  },
+  {
+    "content": "Bosman padł trupem, Will Trey dogorywa, ja jestem w niewoli, a jeśli się nie poddacie, zginiecie wszyscy marnie.",
+    "entities": [
+      [
+        0,
+        6,
+        "PERSON"
+      ],
+      [
+        20,
+        29,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Czy zostaniemy ułaskawieni w razie poddania się? — spytał Tom.",
+    "entities": [
+      [
+        60,
+        63,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "— Spytaj sam kapitana! — odparł Jack.",
+    "entities": [
+      [
+        32,
+        36,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Kapitan słyszał oczywiście wszystko.",
+    "entities": []
+  },
+  {
+    "content": "Przeczekał dwie minuty, potem zaś przemówił:",
+    "entities": []
+  },
+  {
+    "content": "— Hej, Smith!",
+    "entities": [
+      [
+        7,
+        12,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Wiesz dobrze, kto do ciebie mówi, gdyż znasz mój głos.",
+    "entities": []
+  },
+  {
+    "content": "Jeśli natychmiast złożycie broń i oddacie się w niewolę, daruję wam życie, wszystkim, z wyjątkiem Willa Atkinsa.",
+    "entities": [
+      [
+        98,
+        111,
+        "Will Atkins"
+      ]
+    ]
+  },
+  {
+    "content": "— Na miłość boską, kapitanie, miejże pan litość! — krzyknął Atknis z rozpaczliwym strachem.",
+    "entities": [
+      [
+        12,
+        17,
+        "PERSON"
+      ],
+      [
+        60,
+        66,
+        "Will Atkins"
+      ]
+    ]
+  },
+  {
+    "content": "— Czemuż ja mam dać głowę?",
+    "entities": []
+  },
+  {
+    "content": "Wszakże nie uczyniłem nic gorszego od innych!",
+    "entities": []
+  },
+  {
+    "content": "To było kłamstwo.",
+    "entities": []
+  },
+  {
+    "content": "W chwili wybuchu buntu Will Atkins pierwszy podniósł rękę na kapitana, związał go i obrzucił obelgami i klątwami.",
+    "entities": [
+      [
+        23,
+        34,
+        "Will Atkins"
+      ]
+    ]
+  },
+  {
+    "content": "W odpowiedzi rozkazał mu kapitan zdać się na łaskę i niełaskę i dodał, że los jego zależy od namiestnika tej wyspy.",
+    "entities": []
+  },
+  {
+    "content": "Namiestnikiem byłem ja, który to tytuł nadany mi już podczas poprzednich układów, w zupełności mnie zadowalał.",
+    "entities": []
+  },
+  {
+    "content": "Buntownicy stracili już całą otuchę, bez wahania też rzucili zaraz broń i zaczęli błagać kornie o darowanie życia.",
+    "entities": []
+  },
+  {
+    "content": "Jack i dwaj jego towarzysze związali z rozkazu kapitana buntowników, zaś reszta mej armii, której liczby w ciemności dostrzec nie było można, wzięła ich w niewolę oraz zajęła łódź.",
+    "entities": [
+      [
+        0,
+        4,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Ja sam wraz z mym adiutantem pozostałem niewidzialny, jak to mówią…",
+    "entities": []
+  },
+  {
+    "content": "ze względów politycznych.",
+    "entities": []
+  },
+  {
+    "content": "Kapitan przedstawił buntownikom w ostrych słowach, jakiej się dopuścili zbrodni, a potem jak głupio postąpili.",
+    "entities": []
+  },
+  {
+    "content": "Choćby czyn taki ukrywać się dał przez pewien czas, to w końcu musieliby wszyscy zawisnąć na stryczku w pierwszym zaraz porcie, do którego by zawinęli.",
+    "entities": []
+  },
+  {
+    "content": "Okazali wielką skruchę i błagali ze łzami o życie.",
+    "entities": []
+  },
+  {
+    "content": "Kapitan oświadczył im, że nie są jego jeńcami, ale namiestnika wyspy.",
+    "entities": []
+  },
+  {
+    "content": "W zaślepieniu swym sądzili, że przybijają do miejsca niezamieszkałego, ale Bóg zrządził inaczej.",
+    "entities": [
+      [
+        75,
+        78,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Wyspa ta jest nie tylko zamieszkała, ale zostaje pod władzą namiestnika, w dodatku Anglika, który ma przeto prawo sądzić ich wedle prawa angielskiego, czyli niezwłocznie powiesić.",
+    "entities": []
+  },
+  {
+    "content": "Ponieważ jednak otrzymali na razie ułaskawienie, przeto zostaną odstawieni do Anglii, gdzie będą podlegali ustawowej karze.",
+    "entities": []
+  },
+  {
+    "content": "Odnosi się to do wszystkich z wyjątkiem Willa Atkinsa, który może uczynić obrachunek z Bogiem, gdyż zostanie powieszony o świcie.",
+    "entities": [
+      [
+        40,
+        53,
+        "Will Atkins"
+      ],
+      [
+        87,
+        93,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Przemowa ta, będąca wymysłem samego kapitana, wywarła druzgoczące wrażenie.",
+    "entities": []
+  },
+  {
+    "content": "Will Atkins padł na kolana i zaczął błagać kapitana, by się raczył wstawić za nim do namiestnika, a inni prosili także żarliwie, by ich nie wieziono do Anglii.",
+    "entities": [
+      [
+        0,
+        11,
+        "Will Atkins"
+      ]
+    ]
+  },
+  {
+    "content": "Potem zacząłem do niego mówić powoli i wyraźnie.",
+    "entities": []
+  },
+  {
+    "content": "Nasamprzód wyjaśniłem mu, że będzie odtąd nosił imię: Piętaszek, ponieważ w piątek nastąpiło jego ocalenie.",
+    "entities": [
+      [
+        54,
+        63,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Potem nauczyłem go słowa: pan, dając do zrozumienia, że tak mnie ma zwać, w końcu zaś poznał słowa: tak i nie i pojął szybko ich znaczenie.",
+    "entities": []
+  },
+  {
+    "content": "Następnie wziąłem garnek z mlekiem i pokazawszy mu jak maczam w nim chleb i jem, poleciłem mu zrobić to samo.",
+    "entities": []
+  },
+  {
+    "content": "Usłuchał zaraz i zaczął wysławiać gestami uniesienia dobroć tego jadła.",
+    "entities": []
+  },
+  {
+    "content": "Spędziłem z nim w jaskini noc, zaś o świcie ruszyliśmy do domu, przy czym dałem mu do zrozumienia, że otrzyma podobną do mojej odzież, gdyż był dotąd goły zupełnie.",
+    "entities": []
+  },
+  {
+    "content": "Gdyśmy mijali miejsce pogrzebania obu zabitych, Piętaszek spytał mnie gestami, czy by nie należało wykopać ciał i pożreć ich.",
+    "entities": [
+      [
+        48,
+        57,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Przypuszczenie to napełniło mnie taką odrazą, żem nań napadł rozgniewany, starając się wyjaśnić, jak hańbiącym i przeciwnym naturze jest ludożerstwo.",
+    "entities": []
+  },
+  {
+    "content": "Jednocześnie rozkazałem mu iść za sobą, co też uczynił z wielką pokorą i uległością.",
+    "entities": []
+  },
+  {
+    "content": "Wyprowadziłem go na szczyt wzgórza celem zobaczenia, czy dzicy są jeszcze na wyspie.",
+    "entities": []
+  },
+  {
+    "content": "Przez lunetę rozpoznałem wyraźnie miejsce, gdzie ucztowali, ale czółen nie było nigdzie, przeto oczywiście odpłynęli, nie troszcząc się o swych dwu towarzyszy i jeńca.",
+    "entities": []
+  },
+  {
+    "content": "Nie poprzestałem na tym odkryciu, nabrawszy bowiem odwagi, uczułem też ciekawość.",
+    "entities": []
+  },
+  {
+    "content": "Dałem Piętaszkowi szpadę, kazałem mu wziąć łuk i strzały jednego z zabitych, czym umiał się doskonale posługiwać, oraz zawiesiłem mu przez plecy jeden muszkiet.",
+    "entities": [
+      [
+        6,
+        17,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Sam wziąłem dwa muszkiety i tak uzbrojeni wyruszyliśmy w drogę ku wybrzeżu.",
+    "entities": []
+  },
+  {
+    "content": "Przysposobiony byłem na wstrętny widok, to jednak, com zobaczył jako resztki uczty ludożerców, odebrało mi niemal przytomność.",
+    "entities": []
+  },
+  {
+    "content": "Natomiast Piętaszek pozostał obojętny, uważając wszystko za rzecz całkiem naturalną.",
+    "entities": [
+      [
+        10,
+        19,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Wybrzeże pokrywały ludzkie kości, biały piasek przesiąknięty był krwią, a wszędzie leżały spore kawały mięsa nadgryzione i na poły zwęglone.",
+    "entities": []
+  },
+  {
+    "content": "Zobaczyłem trzy czaszki, pięć rąk oraz kości z trzech czy czterech nóg i inne szczątki ludzkich ciał.",
+    "entities": []
+  },
+  {
+    "content": "Piętaszek objaśnił mnie gestami, że dzicy przywieźli tu czterech jeńców, by ich zjeść.",
+    "entities": [
+      [
+        0,
+        9,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Trzech dostarczyło mięsa na ucztę, czwartym zaś był on sam.",
+    "entities": []
+  },
+  {
+    "content": "Na pobliskim lądzie stałym odbyła się wielka bitwa pomiędzy jego szczepem a sąsiednim, Piętaszek i wielu innych popadli w niewolę, a jeńców rozwieźli zwycięzcy w różne odległe strony w celu pożarcia ku czci zwycięskiej bitwy.",
+    "entities": [
+      [
+        87,
+        96,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Gdy się trochę uspokoił, kazałem mu przynieść ptaka.",
+    "entities": []
+  },
+  {
+    "content": "Był to nie jastrząb, lecz papuga, żyła jeszcze i trzepotała się, tak że nie mógł jej zaraz wziąć w rękę.",
+    "entities": []
+  },
+  {
+    "content": "To mi pozwoliło nabić niepostrzeżenie strzelbę po raz trzeci.",
+    "entities": []
+  },
+  {
+    "content": "Nie nadarzył się jednak żaden nowy cel, zabraliśmy przeto do domu koźlę, z którego przyrządziłem doskonałą zupę.",
+    "entities": []
+  },
+  {
+    "content": "Skosztowałem i podałem miskę Piętaszkowi, który ją obwąchał ciekawie i z widocznym upodobaniem, potem zaś zjadł łapczywie.",
+    "entities": [
+      [
+        29,
+        40,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Dziwił się tylko, że dodaję do zupy soli.",
+    "entities": []
+  },
+  {
+    "content": "Wstrząsał głową i dawał do zrozumienia, że sól jest to rzecz szkodliwa i wstrętna wielce.",
+    "entities": [
+      [
+        0,
+        9,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Wobec tego zjadłem kawałek mięsa i skrzywiłem się z udanym wstrętem.",
+    "entities": []
+  },
+  {
+    "content": "Ale nie odstąpił od swego przesądu nawet i potem, jadając najchętniej niesolone potrawy.",
+    "entities": []
+  },
+  {
+    "content": "Zapoznał się już więc ze zupą i gotowanym mięsem, zaś dnia następnego umyśliłem zrobić mu niespodziankę pieczenia.",
+    "entities": []
+  },
+  {
+    "content": "Zawiesiłem nad ogniem, jak to widziałem w Anglii, kawałek mięsa na trójnogu z patyków.",
+    "entities": []
+  },
+  {
+    "content": "Przez ciągłe obracanie sznurka z wiszącym mięsem doprowadziłem rychło do tego, że się upiekło.",
+    "entities": []
+  },
+  {
+    "content": "Piętaszek podziwiał to wielce, a skosztowawszy soczystej pieczeni, wyraził znakami, że nie jadł jeszcze w życiu nic równie dobrego.",
+    "entities": [
+      [
+        0,
+        9,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Dodał, iż odtąd nie tknie ludzkiego mięsa, z czego byłem oczywiście bardzo zadowolony.",
+    "entities": []
+  },
+  {
+    "content": "Następnego dnia pokazałem mu, jak młócić i czyścić zboże.",
+    "entities": []
+  },
+  {
+    "content": "Pojął to prędko i pełnił tę robotę tym chętniej, że wiedział, iż ze zboża będzie chleb.",
+    "entities": []
+  },
+  {
+    "content": "Nauczył się też niebawem sztuki piekarskiej.",
+    "entities": []
+  },
+  {
+    "content": "W czasie bardzo krótkim stosunkowo mógł wykonywać każdą pracę domową równie dobrze jak ja sam.",
+    "entities": []
+  },
+  {
+    "content": "Mając teraz do wyżywienia dwu ludzi, musiałem powiększyć uprawne pole, by większe osiągnąć plony i wziąłem się z pomocą Piętaszka do zagradzania dalszych obszarów.",
+    "entities": [
+      [
+        120,
+        129,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Zacny chłopak był uszczęśliwiony, mogąc mi pomagać, wiedział też, że owoce pracy zarówno moją, jak i jego staną się własnością.",
+    "entities": []
+  },
+  {
+    "content": "Żaden jeszcze rok pobytu na wyspie nie dał mi tyle radości i miłych chwil.",
+    "entities": []
+  },
+  {
+    "content": "Piętaszek opanował szybko język i nie było już miejsca w bliższym otoczeniu, ani przedmiotu w domu, których nazwy by nie znał.",
+    "entities": [
+      [
+        0,
+        9,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Lubił ze mną rozmawiać, toteż i mój język, milczący tak długo, wrócił do swoich praw.",
+    "entities": []
+  },
+  {
+    "content": "Chcąc się przekonać, czy myśli jeszcze o swej ojczyźnie, skierowałem pewnego dnia rozmowę na jego szczep i spytałem, czy miał kiedy powodzenie w bitwach.",
+    "entities": []
+  },
+  {
+    "content": "Rozmowy takie wiedliśmy codziennie, a po trzech latach, najmilszych z całego mego pobytu na wyspie, Piętaszek stał się chrześcijaninem jak ja, a nawet lepszym jeszcze.",
+    "entities": [
+      [
+        100,
+        109,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Rozumiał teraz niemal wszystko, com mówił do niego, językiem angielskim władał płynnie, przekręcając tylko śmiesznie niektóre słowa.",
+    "entities": []
+  },
+  {
+    "content": "Opowiedziałem mu też koleje swego życia.",
+    "entities": []
+  },
+  {
+    "content": "Dowiedział się o mym nieposłuszeństwie dla ojca i karze boskiej, to jest osadzeniu mnie na tej samotnej wyspie.",
+    "entities": [
+      [
+        56,
+        63,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "content": "Potem wtajemniczyłem go w działanie prochu strzelniczego i nauczyłem używać broni palnej.",
+    "entities": []
+  },
+  {
+    "content": "Wielce go uradowałem, darowując mu nóż, a uczuł się dumnym, dostawszy pas i siekierę, którą mógł na nim nosić.",
+    "entities": []
+  },
+  {
+    "content": "Przy sposobności opowiadałem też Piętaszkowi o Europie, a w szczególności o mej rodzinnej Anglii, ludziach, ich stosunkach, zajęciach i podróżach handlowych.",
+    "entities": [
+      [
+        33,
+        44,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Opisałem mu rozbity okręt, na którego pokładzie byłem ostatnim razem, wskazawszy jednak skały, na których tkwił długo, nie dostrzegłem już ani śladu kadłuba.",
+    "entities": []
+  },
+  {
+    "content": "Wiatry i fale zniszczyły go dawno.",
+    "entities": []
+  },
+  {
+    "content": "Zaprowadziłem też Piętaszka na miejsce, gdzie leżały resztki łodzi z czasów naszej katastrofy.",
+    "entities": [
+      [
+        18,
+        27,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Niewiele z niej zostało, ale Piętaszek obejrzał wszystko z wielką uwagą i powiedział z naciskiem:",
+    "entities": [
+      [
+        29,
+        38,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "— Widziałem taką łódź w ojczyźnie mojej.",
+    "entities": []
+  },
+  {
+    "content": "Nie pokazywałem dotąd Piętaszkowi mej pirogi, teraz jednak zaprowadziłem go do małego portu gdzie stała.",
+    "entities": [
+      [
+        22,
+        33,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Wyczerpaliśmy wodę, gdyż przez ostrożność trzymałem ją stale pod wodą i wsiedliśmy w nią.",
+    "entities": []
+  },
+  {
+    "content": "— Teraz Piętaszku, pojedziemy do twego ludu!",
+    "entities": [
+      [
+        8,
+        17,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "— zawołałem.",
+    "entities": []
+  },
+  {
+    "content": "Pokręcił głową z wolna i z powątpiewaniem, gdyż statek ten wydał mu się zbyt mały na tego rodzaju przedsięwzięcie.",
+    "entities": []
+  },
+  {
+    "content": "Oświadczyłem tedy, że posiadam większą pirogę i zaprowadziłem go na miejsce, gdzie leżała moja wielka łódź, którą dawniej, jak to czytelnicy zapewne pamiętają, sporządziłem.",
+    "entities": []
+  },
+  {
+    "content": "Piętaszek przyznał, że łódź ta jest dostatecznie wielka, ponieważ jednak przez lat dwadzieścia trzy wystawiona była na słońce i deszcz, przeto tak zbutwiała, iż nie nadawała się do użytku.",
+    "entities": [
+      [
+        0,
+        9,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Obejrzeliśmy ją ze wszystkich stron, po czym oświadczyłem Piętaszkowi, że przy jego pomocy sporządzę inną, w której będzie mógł ruszyć z powrotem do ojczyzny.",
+    "entities": [
+      [
+        58,
+        69,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Nie odpowiedział nic, tylko stał smutny i zamyślony.",
+    "entities": []
+  },
+  {
+    "content": "Spytałem, co mu dolega.",
+    "entities": []
+  },
+  {
+    "content": "Spojrzał ponuro i rzekł żałośnie:",
+    "entities": []
+  },
+  {
+    "content": "— Czemu mój pan zły na Piętaszka?",
+    "entities": [
+      [
+        23,
+        32,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Czym zawinił Piętaszek?",
+    "entities": [
+      [
+        13,
+        22,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Powiedziałem mu, że się nań wcale nie gniewam.",
+    "entities": []
+  },
+  {
+    "content": "— Nie gniewam? — powtórzył me słowa.",
+    "entities": []
+  },
+  {
+    "content": "— Nie gniewam?",
+    "entities": []
+  },
+  {
+    "content": "Czemuż więc odsyłać precz biedny Piętaszek do jego ludu, skoro pan się nie gniewam?",
+    "entities": [
+      [
+        33,
+        42,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "— Drogi Piętaszku! — odparłem.",
+    "entities": []
+  },
+  {
+    "content": "— Wszakże mówiłeś, że rad byś wrócić do swoich!",
+    "entities": []
+  },
+  {
+    "content": "— Tak! — odparł.",
+    "entities": []
+  },
+  {
+    "content": "— My obaj, Piętaszek i mój pan, razem w kanoe do mego ludu, a nie pan zostać, a Piętaszka odsyłać precz!",
+    "entities": [
+      [
+        11,
+        20,
+        "Piętaszek"
+      ],
+      [
+        80,
+        89,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Nie mógł pojąć ten zacny chłopiec, by miał beze mnie opuszczać wyspę.",
+    "entities": []
+  },
+  {
+    "content": "— Mam jechać z tobą?",
+    "entities": []
+  },
+  {
+    "content": "— spytałem.",
+    "entities": []
+  },
+  {
+    "content": "— I cóż bym robił wśród twego ludu?",
+    "entities": []
+  },
+  {
+    "content": "Zwrócił się ku mnie żywo:",
+    "entities": []
+  },
+  {
+    "content": "— Co robił? — odparł z zapałem.",
+    "entities": []
+  },
+  {
+    "content": "— Dzikich ludzi uczyć, by się stali dobrzy, łagodni, dzikim ludziom mówić o Bogu i Jezusie Chrystusie, a oni by słuchali wszyscy jak Piętaszek.",
+    "entities": [
+      [
+        76,
+        80,
+        "PERSON"
+      ],
+      [
+        83,
+        101,
+        "PERSON"
+      ],
+      [
+        133,
+        142,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Rozciąłem mu zaraz więzy i chciałem go podnieść, ale opadał co chwila i nie mogąc mówić, jęczał tylko z cicha, pewny, że zostanie zaraz zarżnięty i pożarty.",
+    "entities": []
+  },
+  {
+    "content": "Poleciłem Piętaszkowi, by doń przemówił i oznajmił mu, że jest wolny, a także by mu się dał napić z flaszki, którą mu jednocześnie wręczyłem.",
+    "entities": [
+      [
+        10,
+        21,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Zaledwie jednak Piętaszek spojrzał uważniej na biedaka, wydał okrzyk radości, a potem nastąpiła scena, która musiała każdemu chrześcijaninowi wycisnąć łzy rozczulenia.",
+    "entities": [
+      [
+        16,
+        25,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Z nieopisanym zachwytem wziął w ramiona ocalonego, starego już człowieka, i przytulił do serca, całując, głaszcząc, śmiejąc się i płacząc jednocześnie.",
+    "entities": []
+  },
+  {
+    "content": "Przemawiał doń najczulszym tonem, potem ułożył go ostrożnie na trawie, zerwał się, zaczął tańczyć, skakać, śpiewać, potem zapłakał znowu, załamał ręce, bił się po piersiach i twarzy, a w końcu wziął starca ponownie w ramiona i zaczął od początku tę samą historię.",
+    "entities": []
+  },
+  {
+    "content": "Długo nie mogłem zeń dobyć rozsądnego słowa, gdy się jednak po trosze uspokoił, dowiedziałem się, że człowiek ten szczęśliwie ocalony jest jego ojcem.",
+    "entities": []
+  },
+  {
+    "content": "Trudno powiedzieć, czego doznałem, patrząc na te objawy miłości synowskiej dzikiego człowieka, radującego się z odnalezienia swego ojca.",
+    "entities": []
+  },
+  {
+    "content": "Ze dwadzieścia razy skakał z czółna na wybrzeże i z powrotem nie wiedząc, co czyni, siadał, rozpinał kaftan i tulił do nagiej piersi jego głowę lub też gładził mu z lekka ręce i nogi, które ucierpiały bardzo od więzów, a to w celu przywrócenia im elastyczności.",
+    "entities": []
+  },
+  {
+    "content": "Spostrzegłszy to, poradziłem mu, by natarł wódką członki ojca, co też odniosło pewien skutek.",
+    "entities": []
+  },
+  {
+    "content": "Zupełnie zapomnieliśmy oczywiście o ściganiu dzikich, których czółno ledwo majaczyło już teraz na morzu.",
+    "entities": []
+  },
+  {
+    "content": "Ale przyszła nam z pomocą przyroda.",
+    "entities": []
+  },
+  {
+    "content": "Zerwał się wiatr przeciwny kierunkowi podróży uciekających, a potem nastała taka burza, że nie sposób było przypuścić, by zaskoczeni nią w połowie drogi mogli ocaleć w wątłym, otwartym czółnie.",
+    "entities": []
+  },
+  {
+    "content": "Zginęli niezawodnie, a smutny ten dla nich fakt uspokoił mnie w zupełności.",
+    "entities": []
+  },
+  {
+    "content": "Nie mogłem się zdobyć na to, by przerwać Piętaszkowi zabiegi jego koło ojca.",
+    "entities": [
+      [
+        41,
+        52,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "W końcu jednak przywołałem go do siebie, on zaś przybiegł w podskokach, co krok oglądając się na odnalezionego.",
+    "entities": []
+  },
+  {
+    "content": "— Słuchaj, Piętaszku — powiedziałem — czy przyszło ci na myśl dać ojcu kawałek chleba?",
+    "entities": [
+      [
+        11,
+        20,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Podczas tych zdarzeń Piętaszek i sternik poszli z moim rozkazem do łodzi i zabrali z niej wiosła oraz maszt i żagle.",
+    "entities": [
+      [
+        21,
+        30,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Po pewnym czasie zjawili się trzej marynarze, którzy z samego początku odłączyli się od reszty.",
+    "entities": []
+  },
+  {
+    "content": "Zdumiało ich wielce, że kapitan, niedawno będący jeńcem, jest na powrót ich panem i władcą.",
+    "entities": []
+  },
+  {
+    "content": "Dali się też bez oporu związać i to dopełniło miary naszego zwycięstwa.",
+    "entities": []
+  },
+  {
+    "content": "Gdy tylko łódź odbiła od okrętu, pośpiesznie rozdzieliliśmy naszych jeńców.",
+    "entities": []
+  },
+  {
+    "content": "Dwaj, o których kapitan miał najgorszą opinię, umieszczeni zostali w mojej jaskini skalnej w lesie, skąd wrócić by tak łatwo nie mogli, nawet gdyby zdołali poszarpać więzy.",
+    "entities": []
+  },
+  {
+    "content": "Postawiono w pobliżu skrępowanych jadło i napój, a eskortujący ich Piętaszek dał im też kilka świec, by nie siedzieli po ciemku.",
+    "entities": [
+      [
+        67,
+        76,
+        "Piętaszek"
+      ]
+    ]
+  },
+  {
+    "content": "Potem przyrzekł, że jeśli przez dni kilka zachowają się spokojnie, odzyskają wolność, w razie przeciwnym zostaną bezwzględnie rozstrzelani.",
+    "entities": []
+  },
+  {
+    "content": "Przyrzekli czekać cierpliwie, podziękowali za żywność i światło, a gdy Piętaszek odszedł pewni byli, że stoi na straży przed jaskinią.",
+    "entities": [
+      [
+        71,
+        80,
+        "Piętaszek"
+      ]
+    ]
+  }
+]
