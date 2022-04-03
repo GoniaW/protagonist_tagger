@@ -14,16 +14,16 @@ class SpacyModel(NERModel):
         doc = self.model(text)
         entities = []
         for index, ent in enumerate(doc.ents):
-            if ent.label_ == "PERSON":
+            if ent.label_ == "persName":
                 start, end = ent.start_char, ent.end_char
                 ent_text = text[start:end]
                 if self.fix_personal_titles and ent_text.startswith(self.personal_titles):
                     start += (1 + len(ent_text.split(' ')[0]))
                 if self.save_personal_titles:
                     personal_title = self.recognize_personal_title(doc, index)
-                    entities.append([start, end, "PERSON", personal_title])
+                    entities.append([start, end, "persName", personal_title])
                 else:
-                    entities.append([start, end, "PERSON"])
+                    entities.append([start, end, "persName"])
 
         return {'content': text, 'entities': entities}
 
