@@ -27,7 +27,7 @@ def read_file_to_list(path):
     strings = []
 
     for line in lines:
-        line = line.encode('ascii', 'ignore').decode("utf-8")
+        line = line.encode().decode("utf-8")
         strings.append(line.rstrip())
 
     return strings
