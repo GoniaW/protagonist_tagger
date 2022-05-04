@@ -2,7 +2,7 @@ def load_model(library, ner_model, save_personal_titles, fix_personal_titles=Tru
     if library == 'spacy':
         from tool.model.spacy_model import SpacyModel
         if ner_model is None:
-            ner_model = 'en_core_web_sm'
+            ner_model = 'pl_core_news_lg'
         model = SpacyModel(ner_model, save_personal_titles, fix_personal_titles)
 
     elif library == 'nltk':
