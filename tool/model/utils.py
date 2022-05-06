@@ -30,6 +30,12 @@ def load_model(library, ner_model, save_personal_titles, fix_personal_titles=Tru
             ner_model = "Davlan/bert-base-multilingual-cased-ner-hrl"
         model = TransformerModel(ner_model, save_personal_titles, fix_personal_titles)
 
+    elif library == 'poldeepner':
+        from tool.model.poldeepner_model import PolDeepNerModel
+        if ner_model is None:
+            ner_model = "kpwr-n82-base"
+        model = PolDeepNerModel(ner_model, save_personal_titles, fix_personal_titles)
+
     else:
         raise Exception('Library "' + library + '" is not supported. You can choose one of: spacy, nltk, stanza and '
                                                 'flair.')
