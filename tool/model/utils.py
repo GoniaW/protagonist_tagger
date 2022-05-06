@@ -27,7 +27,7 @@ def load_model(library, ner_model, save_personal_titles, fix_personal_titles=Tru
     elif library == 'transformers':
         from tool.model.transformers_model import TransformerModel
         if ner_model is None:
-            ner_model = "xlm-roberta-large-finetuned-conll03-english"
+            ner_model = "Davlan/bert-base-multilingual-cased-ner-hrl"
         model = TransformerModel(ner_model, save_personal_titles, fix_personal_titles)
 
     else:

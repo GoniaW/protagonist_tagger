@@ -23,14 +23,14 @@ class FlairModel(NERModel):
         entities = []
         for ent in doc.get_spans('ner'):
             if ent.labels[0].to_dict()['value'] == 'PER':
-                ent_text = text[ent.start_pos:ent.end_pos]
+                ent_text = text[ent.start_position:ent.end_position]
                 if self.fix_personal_titles and ent_text.startswith(self.personal_titles):
                     ent.start_pos += (1 + len(ent_text.split(' ')[0]))
                 if self.save_personal_titles:
                     personal_title = self.recognize_personal_title(ent, doc)
-                    entities.append([ent.start_pos, ent.end_pos, "PERSON", personal_title])
+                    entities.append([ent.start_position, ent.end_position, "PERSON", personal_title])
                 else:
-                    entities.append([ent.start_pos, ent.end_pos, "PERSON"])
+                    entities.append([ent.start_position, ent.end_position, "PERSON"])
 
         return {'content': text, 'entities': entities}
 
