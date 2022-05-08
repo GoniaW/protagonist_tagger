@@ -20,20 +20,20 @@ def main(titles_path, testing_data_dir_path, generated_data_dir, model_output_di
         test_data = get_test_data_for_novel(
             title, testing_data_dir_path, full_text)
         ner_result = []
-        
+
         for text in test_data:
             entities = []
             doc = model(text)
             tmp_text = text
-            
+
             for ent in doc.ents:
                 start = tmp_text.find(ent.text)
                 end = start + len(ent.text)
                 entities.append([start, end, ent.label_])
                 tmp_text = tmp_text[end:]
-            
+
             ner_result.append({"content": text, "entities": entities})
-            
+
         path = os.path.join(generated_data_dir, title + ".json")
         open_path(path, 'w').write(json.dumps(ner_result))
 

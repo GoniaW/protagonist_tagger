@@ -20,7 +20,10 @@ def idx_cluster_to_word_cluster(idx_cluster, doc):
 class ClusterMatcher:
 
     def __init__(self, library, model_path):
-        self.names_matcher = NamesMatcher(library='spacy', model_path=model_path, partial_ratio_precision=75)
+        self.names_matcher = NamesMatcher(
+            library='spacy',
+            model_path=model_path,
+            partial_ratio_precision=75)
 
     def match_single_cluster_with_character(self, cluster, characters):
         match = None
@@ -35,7 +38,8 @@ class ClusterMatcher:
     def match_clusters_with_characters(self, characters, clusters):
         matched_characters = []
         for cluster in clusters:
-            match = self.match_single_cluster_with_character(cluster, characters)
+            match = self.match_single_cluster_with_character(
+                cluster, characters)
             if match is None:
                 matched_characters.append('PERSON')
             else:
@@ -62,8 +66,3 @@ class ClusterMatcher:
                 text_dict['annotations'].append(label_dict)
 
         return text_dict
-
-
-
-
-

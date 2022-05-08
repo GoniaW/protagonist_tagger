@@ -25,12 +25,15 @@ def prepare_training_data(
     train_data = []
 
     for title in titles:
-<<<<<<< Updated upstream
+
+
+<< << << < Updated upstream
         data_slice = json_to_spacy_train_data(
             os.path.join(training_set_1_dir_path, title))
-=======
-        data_slice = json_to_spacy_train_data(os.path.join(training_set_1_dir_path, title + '.json'))
->>>>>>> Stashed changes
+== == == =
+        data_slice = json_to_spacy_train_data(
+            os.path.join(training_set_1_dir_path, title + '.json'))
+>>>>>> > Stashed changes
         train_data.extend(data_slice)
 
 #     data_second_set = json_to_spacy_train_data(training_set_2_path)

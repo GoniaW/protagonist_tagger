@@ -1,5 +1,6 @@
 # coreferee import is important
-import spacy, coreferee
+import spacy
+import coreferee
 
 from tool.coreference.coreference_model import CoreferenceModel
 

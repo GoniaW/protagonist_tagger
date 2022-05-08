@@ -22,7 +22,7 @@ class NamesMatcher:
         for result in ner_results:
             entities = []
             for (ent_start, ent_stop, ent_label, personal_title) in result[
-                'entities']:
+                    'entities']:
                 person = result['content'][ent_start:ent_stop]
                 final_match = self.find_match_for_person(person,
                                                          personal_title,
@@ -79,7 +79,6 @@ class NamesMatcher:
                             return character
 
         return final_match
-
 
     def handle_multiple_potential_matches(
             self, person, personal_title, potential_matches):
