@@ -7,7 +7,8 @@ from tool.model.utils import load_model
 
 
 class NamesMatcher:
-    def __init__(self, partial_ratio_precision, library="spacy", model_path="en_core_web_sm", fix_personal_titles=False):
+    def __init__(self, partial_ratio_precision, library="spacy",
+                 model_path="en_core_web_sm", fix_personal_titles=False):
         self.personal_titles = get_personal_titles()
         self.titles_gender_dict = create_titles_and_gender_dictionary()
         self.model = load_model(library, model_path, True, fix_personal_titles)
@@ -19,24 +20,28 @@ class NamesMatcher:
         matcher_results = []
         for result in ner_results:
             entities = []
-            for (ent_start, ent_stop, ent_label, personal_title) in result['entities']:
+            for (ent_start, ent_stop, ent_label,
+                 personal_title) in result['entities']:
                 person = result['content'][ent_start:ent_stop]
-                final_match = self.find_match_for_person(person, personal_title, characters)
+                final_match = self.find_match_for_person(
+                    person, personal_title, characters)
                 if final_match is not None:
                     entities.append([ent_start, ent_stop, final_match])
 
-            matcher_results.append({'content': result["content"], 'entities': entities})
-
+            matcher_results.append(
+                {'content': result["content"], 'entities': entities})
 
         return matcher_results
-
 
     def find_match_for_person(self, person, personal_title, characters):
         potential_matches = []
         for index, character in enumerate(characters):
             ratio_no_title = fuzz.ratio(person, character)
-            ratio = fuzz.ratio(((personal_title + " ") if personal_title is not None else "") + person, character)
-            partial_ratio = get_partial_ratio_for_all_permutations(person, character)
+            ratio = fuzz.ratio(
+                ((personal_title + " ") if personal_title is not None else "") + person,
+                character)
+            partial_ratio = get_partial_ratio_for_all_permutations(
+                person, character)
             if ratio == 100 or ratio_no_title == 100:
                 potential_matches = [[character, ratio]]
                 break
@@ -48,13 +53,15 @@ class NamesMatcher:
             key=lambda x: x[1],
             reverse=True)
 
-        final_match = self.choose_best_match(person, personal_title, potential_matches, characters)
+        final_match = self.choose_best_match(
+            person, personal_title, potential_matches, characters)
         if final_match is None:
             return None
 
         return final_match
 
-    def choose_best_match(self, person, personal_title, potential_matches, characters):
+    def choose_best_match(self, person, personal_title,
+                          potential_matches, characters):
         if len(potential_matches) > 1:
             final_match = self.handle_multiple_potential_matches(
                 person, personal_title, potential_matches)
@@ -71,7 +78,8 @@ class NamesMatcher:
 
         return final_match
 
-    def handle_multiple_potential_matches(self, person, personal_title, potential_matches):
+    def handle_multiple_potential_matches(
+            self, person, personal_title, potential_matches):
         final_match = None
         if personal_title is not None:
             if personal_title == "the":
@@ -87,10 +95,15 @@ class NamesMatcher:
 
         return final_match
 
+
 def get_partial_ratio_for_all_permutations(potential_match, character_name):
     character_name_components = character_name.split()
-    character_name_permutations = list(itertools.permutations(character_name_components))
+    character_name_permutations = list(
+        itertools.permutations(character_name_components))
     partial_ratios = []
     for permutation in character_name_permutations:
-        partial_ratios.append(fuzz.partial_ratio(' '.join(permutation), potential_match))
+        partial_ratios.append(
+            fuzz.partial_ratio(
+                ' '.join(permutation),
+                potential_match))
     return max(partial_ratios)

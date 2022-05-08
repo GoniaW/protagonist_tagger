@@ -9,7 +9,7 @@ class NERModel:
             from tool.gender_checker import get_personal_titles
             self.personal_titles = tuple(get_personal_titles())
 
-    def get_ner_results(self, data, full_text = False):
+    def get_ner_results(self, data, full_text=False):
         if full_text:
             results = [self.get_doc_entities(data)]
         else:

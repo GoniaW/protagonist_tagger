@@ -7,7 +7,10 @@ class PolDeepNerModel(NERModel):
 
     def __init__(self, model_path, save_personal_titles, fix_personal_titles):
         super().__init__(save_personal_titles, fix_personal_titles)
-        self.model = models.load(model_path, device="cpu", resources_path="poldeepner_resources")
+        self.model = models.load(
+            model_path,
+            device="cpu",
+            resources_path="poldeepner_resources")
         print('PolDeepNer model "' + model_path + '" loaded.')
 
     def get_doc_entities(self, text):
@@ -19,7 +22,8 @@ class PolDeepNerModel(NERModel):
             if ent.label == "persName" or ent.label == 'nam_liv_person':
                 start, end = ent.begin, ent.end
                 ent_text = text[start:end]
-                if self.fix_personal_titles and ent_text.startswith(self.personal_titles):
+                if self.fix_personal_titles and ent_text.startswith(
+                        self.personal_titles):
                     start += (1 + len(ent_text.split(' ')[0]))
                 if self.save_personal_titles:
                     personal_title = self.recognize_personal_title(doc, index)

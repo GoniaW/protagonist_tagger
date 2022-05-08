@@ -27,7 +27,7 @@ def main(titles_path, ner_data_dir, coreference_data_dir, generated_data_dir):
                     matches.append(ent)
                     possible_matches.append(ent[2])
             if len(possible_matches) > 1:
-                match = max(set(possible_matches), key = possible_matches.count)
+                match = max(set(possible_matches), key=possible_matches.count)
                 for mention in cluster:
                     new_results.append((mention[0], mention[1], match))
             if matches:
@@ -35,7 +35,9 @@ def main(titles_path, ner_data_dir, coreference_data_dir, generated_data_dir):
                 for m in matches:
                     print(m, ner_results[0]['content'][m[0]:m[1]])
 
-        results_dict = {'content': ner_results[0]['content'], 'mentions': new_results}
+        results_dict = {
+            'content': ner_results[0]['content'],
+            'mentions': new_results}
         path = os.path.join(generated_data_dir, title + ".json")
 
         if not os.path.exists(os.path.dirname(path)):
@@ -54,4 +56,8 @@ if __name__ == "__main__":
     parser.add_argument('generated_data_dir', type=str,
                         help="directory where generated data should be stored")
     opt = parser.parse_args()
-    main(opt.titles_path, opt.ner_data_dir, opt.coreference_data_dir, opt.generated_data_dir)
+    main(
+        opt.titles_path,
+        opt.ner_data_dir,
+        opt.coreference_data_dir,
+        opt.generated_data_dir)

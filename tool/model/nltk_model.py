@@ -20,16 +20,19 @@ class NLTKModel(NERModel):
             offset = text.find(token, offset)
             spans.append((offset, offset + len(token)))
 
-        for chunk_id, chunk in enumerate(nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(text)))):
+        for chunk_id, chunk in enumerate(nltk.ne_chunk(
+                nltk.pos_tag(nltk.word_tokenize(text)))):
 
             if hasattr(chunk, 'label') and chunk.label() == 'PERSON':
                 try:
                     start, end = spans[chunk_id]
                     ent_text = text[start:end]
-                    if self.fix_personal_titles and ent_text.startswith(self.personal_titles):
+                    if self.fix_personal_titles and ent_text.startswith(
+                            self.personal_titles):
                         start += (1 + len(ent_text.split(' ')[0]))
                     if self.save_personal_titles:
-                        personal_title = self.recognize_personal_title(text, chunk_id)
+                        personal_title = self.recognize_personal_title(
+                            text, chunk_id)
                         entities.append([start, end, "PERSON", personal_title])
                     else:
                         entities.append([start, end, "PERSON"])
@@ -37,7 +40,6 @@ class NLTKModel(NERModel):
                     pass
 
         return {'content': text, 'entities': entities}
-
 
     def recognize_personal_title(self, text, chunk_id):
         personal_title = None

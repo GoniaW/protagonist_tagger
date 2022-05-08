@@ -11,12 +11,18 @@ from tool.file_and_directory_management import open_path, read_file_to_list, dir
 def main(titles_path, characters_lists_dir_path, testing_data_dir_path, generated_data_dir,
          library, ner_model, fix_personal_titles, full_text, precision=75):
     titles = read_file_to_list(titles_path)
-    names_matcher = NamesMatcher(precision, library, ner_model, fix_personal_titles)
+    names_matcher = NamesMatcher(
+        precision,
+        library,
+        ner_model,
+        fix_personal_titles)
 
     for title in tqdm(titles):
-        test_data = get_test_data_for_novel(title, testing_data_dir_path, full_text)
+        test_data = get_test_data_for_novel(
+            title, testing_data_dir_path, full_text)
         characters = get_characters_for_novel(title, characters_lists_dir_path)
-        matcher_results = names_matcher.recognize_person_entities(test_data, characters, full_text)
+        matcher_results = names_matcher.recognize_person_entities(
+            test_data, characters, full_text)
         path = os.path.join(generated_data_dir, title + '.json')
         open_path(path, 'w').write(json.dumps(matcher_results))
 

@@ -6,5 +6,8 @@ def load_model(library, model_name):
         model = Coreferee(model_name)
 
     else:
-        raise Exception('Library "' + library + '" is not supported. You can choose one of: coreferee')
+        raise Exception(
+            'Library "' +
+            library +
+            '" is not supported. You can choose one of: coreferee')
     return model

@@ -13,7 +13,8 @@ def main(titles_path, testing_data_dir_path, generated_data_dir,
     model = load_model(library, model_name)
 
     for title in tqdm(titles):
-        test_data = get_test_data_for_novel(title, testing_data_dir_path, False)
+        test_data = get_test_data_for_novel(
+            title, testing_data_dir_path, False)
 
         lines = []
         model.max_token_id = 0
