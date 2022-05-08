@@ -14,9 +14,8 @@ class PolDeepNerModel(NERModel):
         doc = self.model.process_text(text)
         entities = []
         for index, ent in enumerate(doc):
-
-            if ent.label in ["nam_liv_animal", "nam_liv_character", "nam_liv_god", "nam_liv_habitant"]:
-                print(ent)
+            # if ent.label in ["nam_liv_animal", "nam_liv_character", "nam_liv_god", "nam_liv_habitant"]:
+            #     print(ent)
             if ent.label == "persName" or ent.label == 'nam_liv_person':
                 start, end = ent.begin, ent.end
                 ent_text = text[start:end]
