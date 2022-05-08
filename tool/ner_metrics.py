@@ -63,7 +63,7 @@ def calculate_metrics(gold, matcher, protagonist_tagger=False):
             np.array(gold),
             np.array(matcher),
             labels=characters,
-            average='weighted')
+            average='micro')
     else:
         result = precision_recall_fscore_support(
             np.array(gold),
