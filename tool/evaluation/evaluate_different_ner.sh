@@ -16,3 +16,7 @@ done
 for model in jplu/tf-xlm-r-ner-40-lang Davlan/distilbert-base-multilingual-cased-ner-hrl Davlan/bert-base-multilingual-cased-ner-hrl; do
   python -m tool.scripts.compute_metrics data/novels_titles/polish_titles.txt data/testing_sets/"$1"/ experiments/"$2"/transformers__${model/*\//}/ experiments/"$2"/transformers__${model/*\//}/"$3" --print_results
 done
+
+for model in kpwr-n82-base cen-n82-base cen-n82-large nkjp-base nkjp-base-sq conll-english-large-sq; do
+  python -m tool.scripts.compute_metrics data/novels_titles/polish_titles.txt data/testing_sets/"$1"/ experiments/"$2"/pdn2__${model/*\//}/ experiments/"$2"/pdn2__${model/*\//}/"$3" --print_results
+done
