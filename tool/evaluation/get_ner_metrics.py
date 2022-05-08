@@ -17,14 +17,17 @@ if __name__ == "__main__":
     headers = ['Model', 'Precision', 'Recall', 'F-measure']
     metrics_table = []
 
-    for library in sorted(os.listdir(os.path.join('experiments', opt.results_dir))):
+    for library in sorted(os.listdir(
+            os.path.join('experiments', opt.results_dir))):
         results = load_from_pickle(os.path.join('experiments', opt.results_dir,
                                                 library, opt.stats_path, 'overall_metrics'))
         library = library.replace('__', ' ')
         metrics_table.append([library] + results[:3])
-    results = tabulate.tabulate(metrics_table, headers=headers, tablefmt='latex_booktabs')
+    results = tabulate.tabulate(
+        metrics_table,
+        headers=headers,
+        tablefmt='latex_booktabs')
     print(results)
 
     if opt.save_path:
         open_path(opt.save_path, 'w').write(results)
-

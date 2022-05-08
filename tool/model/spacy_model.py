@@ -17,7 +17,8 @@ class SpacyModel(NERModel):
             if ent.label_ == "persName" or ent.label_ == 'PER':
                 start, end = ent.start_char, ent.end_char
                 ent_text = text[start:end]
-                if self.fix_personal_titles and ent_text.startswith(self.personal_titles):
+                if self.fix_personal_titles and ent_text.startswith(
+                        self.personal_titles):
                     start += (1 + len(ent_text.split(' ')[0]))
                 if self.save_personal_titles:
                     personal_title = self.recognize_personal_title(doc, index)

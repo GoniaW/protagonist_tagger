@@ -29,6 +29,7 @@ def main(titles_path, characters_lists_dir_path,
                                                                        characters)
             fragments.append(fragment_json)
         path = os.path.join(generated_data_dir, title + '.json')
+
         if not os.path.exists(os.path.dirname(path)):
             os.makedirs(os.path.dirname(path))
         write_json(fragments, path)
