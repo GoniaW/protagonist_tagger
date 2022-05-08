@@ -1,10 +1,13 @@
-import spacy
-import coreferee
+# coreferee import is important
+import spacy, coreferee
 
 from tool.coreference.coreference_model import CoreferenceModel
 
 
 class Coreferee(CoreferenceModel):
+
+    FRAGMENT_ID = 0
+
     def __init__(self, model_name):
         super().__init__()
         self.model = spacy.load(model_name)
@@ -15,6 +18,9 @@ class Coreferee(CoreferenceModel):
         doc = self.model(text)
         conll_lines = self.write_conll(doc)
         return conll_lines
+
+    def get_doc(self, text):
+        return self.model(text)
 
     def write_conll(self, doc):
         tokens_clusters = {}

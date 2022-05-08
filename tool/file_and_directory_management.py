@@ -4,6 +4,7 @@ import os.path
 import argparse
 from tabulate import tabulate
 import pickle
+import json
 
 
 def mkdir(path):
@@ -65,7 +66,8 @@ def dir_path(path):
     if os.path.isdir(path):
         return path
     else:
-        raise argparse.ArgumentTypeError(f"{path} is not a valid directory path")
+        raise argparse.ArgumentTypeError(
+            f"{path} is not a valid directory path")
 
 
 def file_path(path):
@@ -86,3 +88,14 @@ def load_from_pickle(path):
     file = open(path, "rb")
     data = pickle.load(file)
     return data
+
+
+def write_json(data, path):
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(json.dumps(data, indent=4))
+
+
+def read_json(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        content = json.load(f)
+    return content
