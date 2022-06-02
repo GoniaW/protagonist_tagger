@@ -55,4 +55,9 @@ def read_annotations(annotation_path):
 
 def read_entities_content(annotation_path):
     annotations = read_annotations(annotation_path)
-    return annotations['entities'], annotations['content']
+    entities = []
+    contents = []
+    for data in annotations:
+        entities.append(data['entities'])
+        contents.append(data['content'])
+    return entities, contents

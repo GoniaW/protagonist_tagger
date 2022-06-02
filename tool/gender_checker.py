@@ -2,10 +2,9 @@ import collections
 import csv
 import os
 import numpy as np
-import gender_guesser.detector as gender_guesser
 
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-GENDER_FILE = os.path.join(ROOT_DIR, "additional_resources/gender_markers.csv")
+# ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+# GENDER_FILE = os.path.join(ROOT_DIR, "additional_resources/gender_markers.csv")
 
 
 def create_titles_and_gender_dictionary():
@@ -29,6 +28,7 @@ def get_personal_titles():
 
 
 def get_name_gender(name):
+    import gender_guesser.detector as gender_guesser
     name_elements = name.split()
 
     titles_gender = create_titles_and_gender_dictionary()
