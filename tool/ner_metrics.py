@@ -4,7 +4,7 @@ import tabulate
 import os
 
 from tool.file_and_directory_management import read_file_to_list, save_to_pickle, load_from_pickle
-from tool.data_generator import data_from_json
+from tool.annotations_utils import read_entities_content
 
 
 def organize_entities(entities_gold, entities_matcher,
@@ -82,9 +82,9 @@ def compute_overall_stats(titles, gold_standard_path,
     matcher_overall = []
 
     for title in titles:
-        entities_gold, sentences = data_from_json(
+        entities_gold, sentences = read_entities_content(
             os.path.join(gold_standard_path, title + '.json'))
-        entities_matcher, _ = data_from_json(
+        entities_matcher, _ = read_entities_content(
             os.path.join(prediction_path, title + '.json'))
 
         entities_gold = [[list(x) for x in set(tuple(x) for x in sent_gold_entities)] for sent_gold_entities in

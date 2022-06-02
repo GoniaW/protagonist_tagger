@@ -51,3 +51,8 @@ def read_annotations(annotation_path):
     annotations = json.loads(annotations.encode('utf-8').decode('utf-8'))
 
     return annotations
+
+
+def read_entities_content(annotation_path):
+    annotations = read_annotations(annotation_path)
+    return annotations['entities'], annotations['content']
