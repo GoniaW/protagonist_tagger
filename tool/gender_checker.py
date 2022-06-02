@@ -3,7 +3,7 @@ import csv
 import os
 import numpy as np
 
-# ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 GENDER_FILE = os.path.join(ROOT_DIR, "additional_resources/gender_markers.csv")
 
 
