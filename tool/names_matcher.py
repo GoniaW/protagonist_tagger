@@ -10,7 +10,8 @@ from tool.model.utils import load_model
 class NamesMatcher:
     def __init__(self, partial_ratio_precision, library="spacy",
                  model_path="en_core_web_sm", fix_personal_titles=False):
-        self.personal_titles = get_personal_titles()
+        if fix_personal_titles:
+           self.personal_titles = get_personal_titles()
         self.titles_gender_dict = create_titles_and_gender_dictionary()
         self.model = load_model(library, model_path, True, fix_personal_titles)
         self.partial_ratio_precision = partial_ratio_precision
