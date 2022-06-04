@@ -1,10 +1,3 @@
-# !pip install datasets transformers[sentencepiece]
-# !pip install accelerate
-# !apt install git-lfs
-# !pip install seqeval
-# !git config --global user.email "email"
-# !git config --global user.name "username"
-
 from transformers import Trainer
 from transformers import TrainingArguments
 from transformers import AutoModelForTokenClassification
@@ -15,10 +8,6 @@ from datasets import Dataset, DatasetDict
 import pandas as pd
 from huggingface_hub import notebook_login
 from transformers import AutoTokenizer
-tokenizer = AutoTokenizer.from_pretrained(
-    "Davlan/bert-base-multilingual-cased-ner-hrl")
-
-notebook_login()
 
 train = pd.read_csv('train.csv')
 valid = pd.read_csv('valid.csv')
@@ -66,10 +55,9 @@ def align_labels_with_tokens(labels, word_ids):
             if label % 2 == 1:
                 label += 1
             new_labels.append(label)
-
     return new_labels
 
-
+inputs = tokenizer(dataset["train"][0]["tokens"], is_split_into_words=True)
 labels = dataset["train"][0]["ner_tags"]
 word_ids = inputs.word_ids()
 
@@ -83,7 +71,6 @@ def tokenize_and_align_labels(examples):
     for i, labels in enumerate(all_labels):
         word_ids = tokenized_inputs.word_ids(i)
         new_labels.append(align_labels_with_tokens(labels, word_ids))
-
     tokenized_inputs["labels"] = new_labels
     return tokenized_inputs
 
@@ -94,21 +81,15 @@ tokenized_datasets = dataset.map(
     remove_columns=dataset["train"].column_names,
 )
 
-
 data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
-
 batch = data_collator([tokenized_datasets["train"][i] for i in range(2)])
-
 metric = load_metric("seqeval")
-
-labels = raw_datasets["train"][0]["ner_tags"]
 labels = [label_names[i] for i in labels]
 
 
 def compute_metrics(eval_preds):
     logits, labels = eval_preds
     predictions = np.argmax(logits, axis=-1)
-
     # Remove ignored index (special tokens) and convert to labels
     true_labels = [[label_names[l] for l in label if l != -100]
                    for label in labels]
@@ -145,7 +126,7 @@ args = TrainingArguments(
     learning_rate=2e-5,
     num_train_epochs=5,
     weight_decay=0.01,
-    push_to_hub=True,
+    push_to_hub=False,
 )
 
 
